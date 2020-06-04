@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed May  6 17:22:13 2020
-@modified: 14 MAY 2020
+@modified: 3 JUNE 2020
 
 @author: Shen Ge
 @name: csv / excel reducer
-@description: Reduce data based on some criteria
+@description: 
+    Reduce data based on some criteria. This can be used on its own from command line.
+    Note certain functions cannot be called form command line. Please import from different script and use these functions instead.
 """
 import sys, getopt
 
@@ -190,6 +192,42 @@ def filtercols(df,mcols,mthres,ttype=0):
     
     return dfr
 
+def splitter(df,idxcol,valrow,delrow):
+    """Splits dataframe into smaller dataframes dependent on row val threshold. Recursive function."""
+    try:
+        print(df.iloc[0,idxcol])
+    except:
+        print("End of file!")
+        return df
+        
+    if df.iloc[0,idxcol] > valrow:
+        print("VALROW: ", valrow)
+        dfc = df[df.iloc[:,idxcol].between(valrow,valrow+delrow)]
+        df = df[~df.iloc[:,idxcol].between(valrow,valrow+delrow)]
+        print(dfc)
+        
+        ### for specialized case. comment out if not needed:
+        if valrow < 0:
+            valrowpos = valrow + 360
+        else:
+            valrowpos = valrow
+        
+        valname = str(valrowpos) + '.csv'
+        if valrowpos < 10:
+            valname = '00' + str(valrowpos) + '.csv'
+        elif valrowpos < 100:
+            valname = '0' + str(valrowpos) + '.csv'
+        
+        ###
+        
+        # save data
+#         valname = str(valrowpos) + '.csv'
+        savedata(dfc,valname)
+        
+        # increment to next in-between value
+        valrow += delrow
+        splitter(df,idxcol,valrow,delrow)
+    return df
 
 ######## MAIN FUNCTION ##########
 def main(argv):
