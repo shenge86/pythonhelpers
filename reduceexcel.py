@@ -216,12 +216,11 @@ def splitter(df,idxcol,valrow,delrow):
             valname = '00' + str(valrowpos) + '.csv'
         elif valrowpos < 100:
             valname = '0' + str(valrowpos) + '.csv'
-        
-        ###
-        
+                
         # save data
 #         valname = str(valrowpos) + '.csv'
-        savedata(dfc,valname)
+        if len(dfc.index) != 0:
+            savedata(dfc,valname)
         
         # increment to next in-between value
         valrow += delrow
@@ -267,7 +266,7 @@ def main(argv):
 
 
 if __name__ == "__main__":
-    print("Starting!")
+    # print("Starting!")
     # possible files:
     main(sys.argv[1:])
     sys.exit(0)
