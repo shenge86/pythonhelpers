@@ -2,7 +2,6 @@
 """
 Created on Wed May  6 17:22:13 2020
 @modified: 3 JUNE 2020
-
 @author: Shen Ge
 @name: csv / excel reducer
 @description: 
@@ -228,6 +227,17 @@ def splitter(df,idxcol,valrow,delrow):
         valrow += delrow
         splitter(df,idxcol,valrow,delrow)
     return df
+
+def combinecsv(csv1,csv2,outputcsv):
+    """Combine two csv files into one. Remove duplicates."""
+    df1 = readdata(csv1)
+    df2 = readdata(csv2)
+    
+    full_df = pd.concat([df1,df2])
+    df12 = full_df.drop_duplicates(keep='last')
+    
+    savedata(df12,outputcsv)
+    return df12
 
 ######## MAIN FUNCTION ##########
 def main(argv):
