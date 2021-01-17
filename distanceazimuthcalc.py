@@ -110,22 +110,36 @@ def acquirelatlon(latlon):
     return lat,lon
 
 def acquireR(R):
-    if R == "":
-        R = 1737400 # meters
-        print("Assuming default radius (km): ", R/1000)    
-    else:
+    try:
         R = float(R)
-        R*=1000 # meters
-        print("Assuming radius (km): ", R/1000)
+        if R == "":
+            R = 1737400 # meters
+            print("Assuming default radius (km): ", R/1000)    
+        else:        
+            R*=1000 # meters
+            print("Assuming radius (km): ", R/1000)
+    except:
+        print("Invalid number for radius.")
+        R = 1737400 # meters
+        print("Assuming default radius (km): ", R/1000)        
+    
     return R
 
+def acquire_filename(csvfile):
+    if csvfile == "":
+        csvfile = 'latloncalcs.csv'
+    
+    print("Output csv file will be saved as: ", csvfile)
+    return csvfile
+
 def acquire_input(i):
-    if i == 'q' or i=="quit":
-        print("Exiting program.")
+    if i == 'q' or i=="quit":        
+        print("Exiting program...")
         sys.exit(1)
     else:
         lat,lon = acquirelatlon(i)
         return lat,lon
+
 
 #%% output functions
 
@@ -134,18 +148,21 @@ def acquire_input(i):
 #%%
 if __name__ == "__main__":
     #%%
-    print("Distance and Local Azimuth Calculator")    
-    print("Please enter latitude followed by longitude with a comma separating the two numbers.")
+    print("Distance and Local Azimuth Calculator")        
     print("Assuming all inputs are in degrees and all outputs are in degrees.")
+    filename = input("Filename csv output name: ")
+    filename = acquire_filename(filename)
+    
     print("Assuming radius is the moon's average radius: 1737.4 km.")
     R = input("If not correct, please enter the planetary body's radius in km:")
-    R = acquireR(R)    
+    R = acquireR(R)
         
     fields = ['lat1','lon1','lat2','lon2','distance(m)','azimuth(deg)']
-    with open('latloncalcs.csv',mode='w',newline='') as file:
+    with open(filename,mode='w',newline='') as file:
         csvwriter = csv.writer(file,delimiter=',')
         csvwriter.writerow(fields)
     
+    print("Please enter latitude followed by longitude with a comma separating the two numbers.")
     run = True
     while run:
         latlon1 = input("Enter starting coordinate (lat,lon): ")
@@ -167,8 +184,9 @@ if __name__ == "__main__":
         print('============')
         
         # append to next line
-        with open('latloncalcs.csv',mode='a',newline='') as file:
+        with open(filename,mode='a',newline='') as file:
             csvwriter = csv.writer(file,delimiter=',')
-            csvwriter.writerow([lat1,lon1,lat2,lon2,d,phi])        
+            csvwriter.writerow([lat1,lon1,lat2,lon2,d,phi])
         
+        print('File saved to: ', filename)
         print('Type q or quit anytime to exit the program.')
