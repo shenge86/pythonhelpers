@@ -3,7 +3,7 @@
 Created on Wed Feb 10 10:49:51 2021
 
 @author: Shen Ge
-@name: The Union Parser
+@name: Union Parser
 """
 
 def overlap(a0,af,b0,bf):
@@ -26,9 +26,14 @@ def union(a0,af,b0,bf):
 
 def union_arr(et_start,et_end):
     '''Gets union of an array of intervals assuming they intersect!'''
-    c0,cf = union(et_start[0],et_end[0],et_start[1],et_end[1])
-    et_interval = [(c0,cf)]
     j=0 # et_interval index
+    try:        
+        c0,cf = union(et_start[0],et_end[0],et_start[1],et_end[1])         
+    except:
+        j+=1
+        c0,cf = et_start[0],et_end[0]
+    et_interval = [(c0,cf)]
+        
     for i in range(len(et_start)-2):
         i+=1
         print('Index #: ', i)
@@ -56,12 +61,10 @@ def verbosity(func):
     print(info)
     print('END SCRIPT')
 
-if __name__ == '__main__':
-    et_start = [690298801.1381726, 690298748.1211226, 690298381.2322874, 690298825.703681, 690298381.2322874, 690298838.3953569]
-    et_end = [690298861.2322874, 690298861.2322874, 690298810.4088871, 690298836.2455504, 690298806.0820346, 690298861.2322874]
-    union_arr(et_start,et_end)
-    
+if __name__ == '__main__':    
+    #%%
+    print('===========')
     et_start = [0,5,10,12,14,16,30,40]
-    et_end = [10,8,11,15,19,20,35,47]
-    verbosity(union_arr)
+    et_end = [10,8,11,15,19,20,35,47]    
     et_interval = union_arr(et_start,et_end)
+    verbosity(union_arr)
