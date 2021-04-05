@@ -37,7 +37,6 @@ def conversion(datetime_str,dateform):
 
     return datetime_new
 
-
 if __name__ == "__main__":
     print("Date Time Manipulator")
     #filename = input("Text file input: ")
@@ -60,16 +59,23 @@ if __name__ == "__main__":
             open(outname,mode='w') as o:
         for line in f:
             line2 = line
+            pattern = r"(\d{2})['-/|\\'](\d{2})['-/|\\'](\d{4})"
+            matches = re.findall(pattern,line2)
+            print(matches)
 
             if dateform == 1:
-                pattern = r"(\d{2})['/|\\'](\d{2})['/|\\'](\d{4})"
-                matches = re.findall(pattern,line2)
-                print(matches)
-                line2 = re.sub(pattern,r'\1-\2-\3',line2)
+                for match in matches:
+                    if int(match[0]) > 12 and int(match[1]) < 12:
+                        print('First entry is greater than 12. Assuming that it is month.')
+                        line2 = re.sub(pattern,r'\2-\1-\3',line2)
+                        print(line2)
+                    elif int(match[0]) < 12:
+                        print('First entry is less than 12. Assuming that it is day.')
+                        line2 = re.sub(pattern,r'\1-\2-\3',line2)
+                        print(line2)
+                    else:
+                        print('Invalid datetime found.')
             elif dateform == 4:
-                pattern = r"(\d{2})['-|\\'](\d{2})['-|\\'](\d{4})"
-                matches = re.findall(pattern,line2)
-                print(matches)
                 line2 = re.sub(pattern,r'\1/\2/\3',line2)
 
             o.write(line2)
