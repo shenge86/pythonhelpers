@@ -36,7 +36,7 @@ if groupname not in df.keys() or groupname == '':
     print(groupname)
 
 for group, dataframe in df.groupby(groupname):
-    dataframe.to_csv(f'{directory}/coords_{group}.csv',index=False)
+    dataframe.to_csv(f'{directory}/{group}.csv',index=False)
 
 print('COMPLETE!')
 print('=========================================')
