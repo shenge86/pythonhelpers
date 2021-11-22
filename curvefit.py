@@ -52,22 +52,22 @@ plt.legend(loc='lower right')
 plt.savefig('rawdata_populationvsemployed.png')
 
 # do linear fit
-fit_params, covariances = curve_fit(objective_linear, x, y)
-a, b = fit_params
+fit_paramsL, covariances = curve_fit(objective_linear, x, y)
+a, b = fit_paramsL
 print('Parameter values: ')
 print('y = %.5f * x + %.5f' % (a, b))
 x_monotonic = np.arange(min(x),max(x),1)
-y_fit = objective_linear(x_monotonic,*fit_params)
+y_fit = objective_linear(x_monotonic,*fit_paramsL)
 plt.plot(x_monotonic,y_fit,'--',color='blue',label='Linear Fit')
 plt.legend(loc='lower right')
 plt.savefig('populationvsemployed_linearfit.png')
 
 # do quadratic fit
-fit_params, covariances = curve_fit(objective_quadratic, x, y)
-a, b, c = fit_params
+fit_paramsQ, covariances = curve_fit(objective_quadratic, x, y)
+a, b, c = fit_paramsQ
 print('Parameter values: ')
 print('y = %.5f * x^2 + %.5f * x + %.5f' % (a, b, c))
-y_fit = objective_quadratic(x_monotonic,*fit_params)
+y_fit = objective_quadratic(x_monotonic,*fit_paramsQ)
 plt.plot(x_monotonic,y_fit,'--',color='red',label='Quadratic Fit')
 plt.legend(loc='lower right')
 plt.savefig('populationvsemployed_quadratic.png')
@@ -81,6 +81,10 @@ y_fit = objective_sinecombo(x_monotonic,*fit_params)
 plt.plot(x_monotonic,y_fit,'--',color='green',label='Sine+Quadratic Fit')
 plt.legend(loc='lower right')
 plt.savefig('populationvsemployed_all.png')
-
-
 plt.show()
+
+#%%
+# see how far apart everything is
+print('Linear model error: ', np.linalg.norm(y-objective_linear(x,*fit_paramsL)))
+print('Quadratic model error: ', np.linalg.norm(y-objective_quadratic(x,*fit_paramsQ)))
+print('Sine combo model error: ', np.linalg.norm(y-objective_sinecombo(x,*fit_params)))
