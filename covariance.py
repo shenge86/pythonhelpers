@@ -67,7 +67,19 @@ def confidence_ellipse(x, y, ax, n_std=3.0, facecolor='none', **kwargs):
     ellipse.set_transform(transf + ax.transData)
     return ax.add_patch(ellipse)
 
+#%%
 def get_correlated_dataset(n, dependency, mu, scale):
+    '''
+    Function to generate a correlated dataset of n sets of 2 quantities based on three things:
+        1. dependency (correlation matrix 2x2)
+        [[1,0],[0,1]] aka identity matrix will be completely uncorrelated data
+        2. mu (mean of the data aka additive factor to data)
+        This will be added to each set of numbers after everything else
+        (0,0) will mean no translation to the data
+        3. scale (multiplicative factor to data)
+        This will be multiplied to each set of numbers prior to adding mean
+        (1,1) will mean no stretching of the data
+    '''
     latent = np.random.randn(n, 2)
     dependent = latent.dot(dependency)
     scaled = dependent * scale
