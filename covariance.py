@@ -61,8 +61,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.patches import Ellipse
 import matplotlib.transforms as transforms
+from matplotlib.ticker import MultipleLocator
 
-def confidence_ellipse(x, y, ax, n_std=3.0, facecolor='none', verbose=False, **kwargs):
+def confidence_ellipse(x, y, ax, n_std=3.0, facecolor='none', verbose=False, testing=False, **kwargs):
     """
     Create a plot of the covariance confidence ellipse of *x* and *y*.
 
@@ -109,9 +110,11 @@ def confidence_ellipse(x, y, ax, n_std=3.0, facecolor='none', verbose=False, **k
     rotatedeg = 45 # degrees (always true)
     
     ###
-    # for testing only for plots; please comment out
-    # mean_x, mean_y = 0,0
-    # rotatedeg = 0
+    if testing:
+        # for testing only for plots; please comment out
+        mean_x, mean_y = 0,0
+        rotatedeg = 0
+        # scale_x, scale_y = 5,5
     ###
 
     transf = transforms.Affine2D() \
@@ -123,8 +126,12 @@ def confidence_ellipse(x, y, ax, n_std=3.0, facecolor='none', verbose=False, **k
     
     # if verbose then print out more info
     if verbose:
+        print('Horizontal radius (before scaling): ', ell_radius_x)
+        print('Vertical   radius (before scaling): ', ell_radius_y)
         print('Scale (x): ', scale_x)
         print('Scale (y): ', scale_y)
+        print('Final radius (x): ', ell_radius_x * scale_x)
+        print('Final radius (y): ', ell_radius_y * scale_y)
         print('Mean (x):  ', mean_x)
         print('Mean (y):  ', mean_y)    
     
@@ -154,16 +161,25 @@ def get_correlated_dataset(n, dependency, mu, scale):
 
 #%%
 if __name__ == '__main__':
-    try:
-        runtype = sys.argv[1]
-    except:
-        runtype = ''
+    # by default set the runtype argument to be in covariance folder
+    runtype = 'covariance/Positive_correlation.csv'
+    
+    for arg in sys.argv[1:]:
+        # print(arg)
+        if arg[-3:] in ['txt','csv']:
+            print('Reading in data file in the folder covariance.')
+            runtype = arg
         
     if '-verbose' in sys.argv:
         verbose = True
     else:
         verbose = False
         
+    if '-testing' in sys.argv:
+        testing = True
+    else:
+        testing = False
+    
     # make covariance folder if doesn't exist
     if not os.path.exists('covariance'):
         print('Covariance folder not found. Creating folder named covariance.')
@@ -174,8 +190,7 @@ if __name__ == '__main__':
         try:
             df = pd.read_csv(runtype)
         except:
-            print('Failed to read in csv.')
-            sys.exit(2)
+            df = pd.read_csv('covariance/'+runtype)
             
         print('Generate the correlation matrix as such...')
         corr_matrix = df.corr().round(2)
@@ -189,28 +204,30 @@ if __name__ == '__main__':
         
         #%% calculate covariance the 'traditional' way
         eigenvalues, eigenvectors = np.linalg.eig(np.cov(x,y))
+
+        
+        #%% create the plot
+        fig, ax = plt.subplots(figsize=(6, 6))
+        ax.scatter(x, y, s=0.5)
+        
         # degree of freedom assuming 2 and using 2-sigma confidence interval (approximately 95%)
         # k = 2, chi-squared = 6.18
         horizontal_semiaxis = np.sqrt(eigenvalues[0]*6.18)
         vertical_semiaxis   = np.sqrt(eigenvalues[1]*6.18)
         print('Horizontal 2-sigma axis half-length: ', horizontal_semiaxis)
         print('Vertical   2-sigma axis half-length: ', vertical_semiaxis)
+        print('Error ellipse with std=2')
+        confidence_ellipse(x, y, ax, n_std=2, verbose = verbose, testing = testing,
+                           label=r'$2\sigma$', edgecolor='fuchsia', linestyle='--')
+        
+        print('-----------------------------------')
         # k = 2, chi-squared = 11.83
         horizontal_semiaxis = np.sqrt(eigenvalues[0]*11.83)
         vertical_semiaxis   = np.sqrt(eigenvalues[1]*11.83)
         print('Horizontal 3-sigma axis half-length: ', horizontal_semiaxis)
         print('Vertical   3-sigma axis half-length: ', vertical_semiaxis)
-        
-        #%% create the plot
-        fig, ax = plt.subplots(figsize=(6, 6))
-        ax.scatter(x, y, s=0.5)
-        
-        print('Error ellipse with std=2')
-        confidence_ellipse(x, y, ax, n_std=2, verbose = verbose,
-                           label=r'$2\sigma$', edgecolor='fuchsia', linestyle='--')
-        
         print('Error ellipse with std=3')
-        confidence_ellipse(x, y, ax, n_std=3, verbose=verbose,
+        confidence_ellipse(x, y, ax, n_std=3, verbose=verbose, testing = testing,
                            label=r'$3\sigma$', edgecolor='blue', linestyle=':')
         
         mu = np.mean(x), np.mean(y)
@@ -220,11 +237,19 @@ if __name__ == '__main__':
         ax.set_title('Covariance Ellipse with STDs')
         ax.legend()
         
+        # spacing = 1 # This can be your user specified spacing. 
+        # minorLocator = MultipleLocator(spacing)
+        # ax.yaxis.set_minor_locator(minorLocator)
+        # ax.xaxis.set_minor_locator(minorLocator)
+        # ax.grid(which='minor')
+        
+        plt.grid(color = 'green', linestyle = '--', linewidth = 0.5)
+        
         figurename = 'covarianceplot_' + os.path.basename(runtype)
         plt.savefig(f'covariance/{figurename}.png')
         plt.show()
     
-    elif runtype in ['', 'example']:
+    elif runtype in ['example']:
         #%%
         np.random.seed(0)
         
