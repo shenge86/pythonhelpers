@@ -9,6 +9,7 @@ Created on Mon Aug 21 22:54:37 2023
     https://carstenschelp.github.io/2018/09/14/Plot_Confidence_Ellipse_001.html
     https://www.visiondummy.com/2014/04/draw-error-ellipse-representing-covariance-matrix
     
+    
     For quick reference, here is the Chi-square probabilities.
     For 2D dataset requiring a 95% confidence interval, i.e. 95% of data will fall into ellipse,
     we will use P(s < 5.991) = 1 - 0.05 = 0.95 
@@ -52,6 +53,9 @@ df	0.995	0.99 	0.975	0.95	    0.90  	0.10 	0.05 	0.025	0.01	    0.005
 80	51.172	53.540	57.153	60.391	64.278	96.578	101.879	106.629	112.329	116.321
 90	59.196	61.754	65.647	69.126	73.291	107.565	113.145	118.136	124.116	128.299
 100	67.328	70.065	74.222	77.929	82.358	118.498	124.342	129.561	135.807	140.169
+
+Can also look at:
+    https://www.reid.ai/2012/09/chi-squared-distribution-table-with.html
 """
 
 import sys, os
@@ -138,6 +142,54 @@ def confidence_ellipse(x, y, ax, n_std=3.0, facecolor='none', verbose=False, tes
     return ax.add_patch(ellipse)
 
 #%%
+def ellipse_parameters(data, dof=1, nstd=3, verbose=False):
+    # Calculate mean and covariance matrix
+    mean = np.mean(data, axis=0)
+    cov_matrix = np.cov(data, rowvar=False)
+
+    # Calculate eigenvalues and eigenvectors
+    eigenvalues, eigenvectors = np.linalg.eig(cov_matrix)
+
+    # Sort eigenvalues and eigenvectors in decreasing order
+    sorted_indices = np.argsort(eigenvalues)[::-1]
+    eigenvalues = eigenvalues[sorted_indices]
+    eigenvectors = eigenvectors[:, sorted_indices]
+
+    # calculate scale up for axis depending on degree of freedom and standard deviation desired
+    if dof==1:
+        scaledup = nstd
+    elif dof==2:
+        if nstd == 1:
+            scaledup = np.sqrt(2.3)
+        elif nstd == 2:
+            scaledup = np.sqrt(6.18)
+        elif nstd == 3:
+            scaledup = np.sqrt(11.83)
+    elif dof==3:
+        if nstd == 1:
+            scaledup = np.sqrt(3.53)
+        elif nstd == 2:
+            scaledup = np.sqrt(8.02)
+        elif nstd == 3:
+            scaledup = np.sqrt(14.16)
+
+    # Determine ellipse parameters
+    semi_major = scaledup * np.sqrt(eigenvalues[0])
+    semi_minor = scaledup * np.sqrt(eigenvalues[1])
+    angle = np.degrees(np.arctan2(eigenvectors[1, 0], eigenvectors[0, 0]))
+    
+    if verbose:
+        print('Eigenvalue (major): ', eigenvalues[0])
+        print('Eigenvalue (minor): ', eigenvalues[1])
+        print('Scale factor: ', scaledup)
+        print('Semimajor axis: ', semi_major)
+        print('Semiminor axis: ', semi_minor)
+        print('Angle: ', angle)
+    
+    return semi_major, semi_minor, angle, mean
+
+
+#%%
 def get_correlated_dataset(n, dependency, mu, scale):
     '''
     Function to generate a correlated dataset of n sets of 2 quantities based on three things:
@@ -169,6 +221,11 @@ if __name__ == '__main__':
         if arg[-3:] in ['txt','csv']:
             print('Reading in data file in the folder covariance.')
             runtype = arg
+            
+        if arg[0:3] in ['dof']:
+            dof = int(arg[3:])
+        else:
+            dof = 1
         
     if '-verbose' in sys.argv:
         verbose = True
@@ -179,6 +236,15 @@ if __name__ == '__main__':
         testing = True
     else:
         testing = False
+        
+    print(f'''
+          =========INPUT SETTINGS============
+          Runtype (file or example): {runtype}
+          Degree of freedom assumed: {dof}
+          Verbosity                : {verbose}
+          Testing                  : {testing}
+          ''')
+    
     
     # make covariance folder if doesn't exist
     if not os.path.exists('covariance'):
@@ -190,6 +256,7 @@ if __name__ == '__main__':
         try:
             df = pd.read_csv(runtype)
         except:
+            print(f'Successfully read in covariance/{runtype} file!')
             df = pd.read_csv('covariance/'+runtype)
             
         print('Generate the correlation matrix as such...')
@@ -204,46 +271,44 @@ if __name__ == '__main__':
         
         #%% calculate covariance the 'traditional' way
         eigenvalues, eigenvectors = np.linalg.eig(np.cov(x,y))
-
         
-        #%% create the plot
+        #%% create the plot using nontraditional way
         fig, ax = plt.subplots(figsize=(6, 6))
         ax.scatter(x, y, s=0.5)
         
-        # degree of freedom assuming 2 and using 2-sigma confidence interval (approximately 95%)
-        # k = 2, chi-squared = 6.18
-        horizontal_semiaxis = np.sqrt(eigenvalues[0]*6.18)
-        vertical_semiaxis   = np.sqrt(eigenvalues[1]*6.18)
-        print('Horizontal 2-sigma axis half-length: ', horizontal_semiaxis)
-        print('Vertical   2-sigma axis half-length: ', vertical_semiaxis)
+        mu = np.mean(x), np.mean(y)
+        ax.scatter(mu[0], mu[1], c='red', s=0.5)
+        
         print('Error ellipse with std=2')
         confidence_ellipse(x, y, ax, n_std=2, verbose = verbose, testing = testing,
                            label=r'$2\sigma$', edgecolor='fuchsia', linestyle='--')
         
         print('-----------------------------------')
-        # k = 2, chi-squared = 11.83
-        horizontal_semiaxis = np.sqrt(eigenvalues[0]*11.83)
-        vertical_semiaxis   = np.sqrt(eigenvalues[1]*11.83)
-        print('Horizontal 3-sigma axis half-length: ', horizontal_semiaxis)
-        print('Vertical   3-sigma axis half-length: ', vertical_semiaxis)
         print('Error ellipse with std=3')
         confidence_ellipse(x, y, ax, n_std=3, verbose=verbose, testing = testing,
                            label=r'$3\sigma$', edgecolor='blue', linestyle=':')
         
-        mu = np.mean(x), np.mean(y)
         
-        ax.scatter(mu[0], mu[1], c='red', s=0.5)
+        print('-----------------------------------')
+        #%% create covariance plot the traditional way
+        data = df.values
+
+        # Create the ellipse
+        semi_major, semi_minor, angle, mean = ellipse_parameters(data,dof=1,nstd=2,verbose=verbose)
+        ellipse2sigma = Ellipse(xy=mu, width=semi_major * 2, height=semi_minor * 2, angle=angle, 
+                          edgecolor='yellow', facecolor='none', label=r'$2\sigma$ (w/ eigenvalues)')
+        plt.gca().add_patch(ellipse2sigma)
         
-        ax.set_title('Covariance Ellipse with STDs')
-        ax.legend()
+        # Create the ellipse
+        semi_major, semi_minor, angle, mean = ellipse_parameters(data,dof=1,nstd=3,verbose=verbose)
+        ellipse3sigma = Ellipse(xy=mu, width=semi_major * 2, height=semi_minor * 2, angle=angle, 
+                          edgecolor='red', facecolor='none', label=r'$3\sigma$ (w/ eigenvalues)')
+        plt.gca().add_patch(ellipse3sigma)
         
-        # spacing = 1 # This can be your user specified spacing. 
-        # minorLocator = MultipleLocator(spacing)
-        # ax.yaxis.set_minor_locator(minorLocator)
-        # ax.xaxis.set_minor_locator(minorLocator)
-        # ax.grid(which='minor')
         
         plt.grid(color = 'green', linestyle = '--', linewidth = 0.5)
+        ax.set_title('Covariance Ellipse with STDs assuming ')
+        ax.legend()
         
         figurename = 'covarianceplot_' + os.path.basename(runtype)
         plt.savefig(f'covariance/{figurename}.png')
