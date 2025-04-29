@@ -4,6 +4,9 @@ Created on Mon Apr 21 20:36:40 2025
 
 @author: Shen Ge
 @name: Genetic Algorithm Tester
+
+This simple tester is supposed to solve for a maximum of a mathematical function
+based on genetic algorithms.
 """
 
 import numpy as np
