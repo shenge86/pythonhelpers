@@ -54,6 +54,8 @@ if __name__ == '__main__':
     f(x) = sin(pi/2) = 1
     
     We want to do it by using genetic algorithms with random guesses
+    
+    Understand basic math and all should be fine!
     ''')    
 #    num_binary = gen_random(8)    
 #    num_decima = int(num_binary,2)
