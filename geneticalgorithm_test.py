@@ -12,8 +12,11 @@ based on genetic algorithms.
 import sys
 
 import numpy as np
+import pandas as pd
 import random
 import bisect
+
+from tabulate import tabulate
 
 def f(x):
     return np.sin(np.pi * x / 256)
@@ -82,6 +85,19 @@ def find_element_between_values(ordered_list, target_number):
 
        return None
 
+def gen_df(population):
+    fitness    = calc_fitness(population)
+    f_norm     = calc_fnorm(population)
+    f_norm_cum = cumulative_sum_list(f_norm)
+    
+    df = pd.DataFrame({
+        'Individuals': population,
+        'x'          : calc_decimal(population),
+        'f(x)'       : fitness,
+        'f_norm'     : f_norm,
+        'cumulative f_norm': f_norm_cum,
+        })
+    return df
 
 #%%
 if __name__ == '__main__':
@@ -101,19 +117,41 @@ if __name__ == '__main__':
     
     # generate a population of n samples, each that is an 8-bit string
     # 8-bit string since it can represent all numbers between 0 and 255
-    n = 8
-    population = populate(n,8)
-    print('Generated a population of size: ', n)
-    print('Population: ', population)
+    if '-default' not in sys.argv:
+        n = 8
+        population = populate(n,8)
+        print('Generated a population of size: ', n)
+        print('Population: ', population)
+    else:
+        print('Loading in default set of population with size 8')
+        population = ['10111101',
+                      '11011000',
+                      '01100011',
+                      '11101100',
+                      '10101110',
+                      '01001010',
+                      '00100011',
+                      '00110101']
     
-#    fitness    = calc_fitness(population)
-    f_norm     = calc_fnorm(population)
-    f_norm_cum = cumulative_sum_list(f_norm)
+    #%% print out everything
+    df = gen_df(population)
     
-    # Generate 8 random numbers from 0 to 1
-    random_numbers = [random.random() for _ in range(8)]
+    table = tabulate(
+        df,
+        headers='keys',
+        tablefmt='pipe'
+    )
     
-    #%% See how these 8 numbers fit into the bucket for each fitness score
+    print(table)
+    print(sum(df['f(x)']))
+    
+    #%% ROULETTE WHEEL
+    if '-default' not in sys.argv:
+        # Generate 8 random numbers from 0 to 1
+        random_numbers = [random.random() for _ in range(8)]
+    else:
+        random_numbers = [0.293, 0.971, 0.160, 0.469, 0.664, 0.568, 0.371, 0.109]
+    # See how these 8 numbers fit into the bucket for each fitness score
     # Example if assuming cumulative fnorm associated with members 1 through 8 is:
     # 0.144
     # 0.237
@@ -128,5 +166,9 @@ if __name__ == '__main__':
     # if random number is 0.9, then 8 is chosen
     elements = []
     for r in random_numbers:
-        index = bisect.bisect(f_norm_cum, r)
+        index = bisect.bisect(df['cumulative f_norm'], r)
         elements.append(index)
+        
+    #%% CROSSOVER
+    crossover_rate = 0.75
+    
