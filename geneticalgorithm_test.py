@@ -145,7 +145,7 @@ if __name__ == '__main__':
     print(table)
     print(sum(df['f(x)']))
     
-    #%% ROULETTE WHEEL
+    #%% REPRODUCTION (ROULETTE WHEEL)
     if '-default' not in sys.argv:
         # Generate 8 random numbers from 0 to 1
         random_numbers = [random.random() for _ in range(8)]
@@ -168,6 +168,11 @@ if __name__ == '__main__':
     for r in random_numbers:
         index = bisect.bisect(df['cumulative f_norm'], r)
         elements.append(index)
+        
+    # create new population
+    population_new = []
+    for i in elements:
+        population_new.append(population[i])
         
     #%% CROSSOVER
     crossover_rate = 0.75
