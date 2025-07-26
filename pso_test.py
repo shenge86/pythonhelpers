@@ -1,3 +1,15 @@
+"""
+Particle Swarm Optimization (PSO) Tester
+
+This code shows how to use PSO to solve for extremas for a complicated objective function.
+Here, function is not a convex function and therefore it is hard to find its minimum because 
+a local minimum found is not necessarily the global minimum.
+
+References:
+    https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/
+"""
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
