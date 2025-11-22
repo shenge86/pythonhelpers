@@ -4,6 +4,9 @@ Created on Fri Nov 14 05:35:23 2025
 
 @author: sheng
 @name: Testing with grades
+@description: 
+
+    A script under works to learn sklearn
 """
 from mlwpy import *
 
