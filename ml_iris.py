@@ -29,3 +29,11 @@ print('targets: {}'.format(iris.target_names), iris.target_names[0], sep='\n')
 
 print('Train features shape: ', iris_train_ftrs.shape)
 print('Test features shape: ', iris_test_ftrs.shape)
+
+#%% build a k-NN classification model
+knn   = neighbors.KNeighborsClassifier(n_neighbors=3)
+fit   = knn.fit(iris_train_ftrs, iris_train_tgt)
+preds = fit.predict(iris_test_ftrs)
+
+# evaluate prediction against held-back testing targets
+print('3NN accuracy: ', metrics.accuracy_score(iris_test_tgt, preds))
