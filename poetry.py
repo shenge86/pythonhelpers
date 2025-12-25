@@ -29,10 +29,50 @@ if __name__ == '__main__':
         others     = [word_start] + loc_start
                 
         # custom types
-        humans  = ["Shen", "human", "woman", "supermodel", "physicist", "gym rat"]
+        # TYPE 1
+        humans  = ["Shen", "human", "man", "woman", "supermodel", "physicist", "gym rat"]
         sexuals = ["kiss", "fondle", "slap", "grasp", "penetrate", "fuck", "suck", "grope", "massage", "make love with"]
         fruits  = ["apple", "orange", "banana", "strawberry"]
-        generator = RandomWord(fruit=fruits, sexual=sexuals, human=humans)        
+        generator = RandomWord(fruit=fruits, sexual=sexuals, human=humans)
+        
+        
+        # TYPE 2
+        bodyparts = ['body',
+                     'breast',
+                     'butt'
+                     'eyes',
+                     'face',
+                     'hair',
+                     'legs',
+                     'nipples',
+                     'pussy']
+        
+        models = ['Allie Haze',
+                  'Camryn',
+                  'Ceara Lynch',
+                  'Emma Kuziara', 
+                  'Leanna Lovings',
+                  'Lexi Belle',
+                  'Melanie Rios']
+        
+        actions= ['eyeballing',                  
+                  'imagining making love to',
+                  'pleasuring oneself to',
+                  'salivating over',
+                  'watching',
+                  'worshiping']
+        
+        generator_x = RandomWord(bodypart=bodyparts, model=models, action=actions)
+        
+        # TYPE 3
+        times = ['eternal',
+                 'infinite',
+                 'long'
+                 'short',
+                 'temporal',
+                 'temporary',]
+        
+        generator_time = RandomWord(time=times)
         
         # random sentences
         s = RandomSentence()
@@ -41,10 +81,21 @@ if __name__ == '__main__':
         sentences.append(s.simple_sentence())
         sentences.append(s.sentence())
         
-        line_manual = 'A ' + generator.word(include_categories=['human']) + ' loves to ' + generator.word(include_categories=['sexual']) + ' ' + generator.word(include_categories=['fruit'])        
+        line000 = 'The lines above are mechanically created with uncuration except in adjective, verb and noun formation'
+        line001 = 'What follows is more deliberate.'
+        line01 = 'A ' + generator.word(include_categories=['human']) + ' loves to ' + generator.word(include_categories=['sexual']) + ' ' + generator.word(include_categories=['fruit'])        
+        line02 = f"Yet, to a {generator.word(include_categories=['human'])}, nothing feels quite as good as spending hours"
+        line03 = 'staring at a screen and ' + generator_x.word(include_categories=['action']) + ' the ' + generator_x.word(include_categories=['bodypart']) + ' of ' + generator_x.word(include_categories=['model'])
+        line04 = 'The euphoria may be ' + generator_time.word() + ' and the shame may be ' + generator_time.word()
+        line05 = 'The cycle repeats...'
         
-        sentences.append(line_manual)
-        
+        sentences.append(line000)
+        sentences.append(line001)
+        sentences.append(line01)
+        sentences.append(line02)
+        sentences.append(line03)
+        sentences.append(line04)
+        sentences.append(line05)
         
         words = {
             'adjectives': [adjective1],
@@ -58,18 +109,19 @@ if __name__ == '__main__':
     result2 = ' '.join([words['others'][1], words['others'][2]])
     
     
+    
     lines_to_save = [
-        words['others'][0]+'\n',
+        words['others'][0],
         '----------------'+'\n',
         result.capitalize()+'\n',
         result2.capitalize()+'\n',
-        words['sentences'][0]+'\n',
-        words['sentences'][1]+'\n',
-        words['sentences'][2]+'\n',
-        words['sentences'][3]+'\n',
-        '=======================',
         ]
     
+    lines_to_save2 = []
+    for sentence in words['sentences']:
+        lines_to_save2.append(sentence+'\n')
+    
+    lines_to_save.extend(lines_to_save2)    
     for line in lines_to_save:
         print(line)
 
