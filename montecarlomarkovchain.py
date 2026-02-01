@@ -23,15 +23,12 @@ Created on Thu Jan 29 23:12:35 2026
     If the proposed island has a population less than that of the current island, then:
 
     She computes  
-    a
-    ,the ratio of the population of the proposed island to the current island.
+    a, the ratio of the population of the proposed island to the current island.
     
     She travels to the proposed island with probability  
-    a
-    ,
-    
+    a,
     And with probability  
-    1 − a
+    1 − a,
     she spends another day on the current island.
     
 @references:
