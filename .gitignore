@@ -2,8 +2,7 @@
 *.swp
 *.txt
 *.zip
-data_img/emmak/ignore/*
-data_img/sapphireb/ignore/*
+**/ignore
 
 # Spyder project settings
 .spyderproject
