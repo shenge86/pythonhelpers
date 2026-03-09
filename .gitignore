@@ -1,6 +1,9 @@
 *.csv
 *.swp
 *.txt
+*.zip
+data_img/emmak/ignore/*
+data_img/sapphireb/ignore/*
 
 # Spyder project settings
 .spyderproject
