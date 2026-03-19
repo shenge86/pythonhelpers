@@ -40,7 +40,7 @@ if __name__ == '__main__':
                 
         # custom types
         # TYPE 1
-        humans  = ["Shen", "human", "man", "woman", "supermodel", "physicist", "gym rat"]
+        humans  = ["Shen", "him", "her", "the one absorbed"]
         sexuals = ["kiss", "fondle", "slap", "grasp", "penetrate", "fuck", "suck", "grope", "massage", "make love with"]
         fruits  = ["apple", "orange", "banana", "strawberry"]
         generator = RandomWord(fruit=fruits, sexual=sexuals, human=humans)
@@ -58,7 +58,6 @@ if __name__ == '__main__':
                      'pussy']
         
         models = ['Allie Haze',
-                  'Camryn',
                   'Emma Kuziara',
                   'Kylie Page',
                   'Leanna Lovings',
@@ -69,7 +68,7 @@ if __name__ == '__main__':
                   'pleasing oneself with thoughts of',
                   'starstruck over',
                   'watching',
-                  'worshiping']
+                  'drooling over']
         
         generator_x = RandomWord(bodypart=bodyparts, model=models, action=actions)
         
@@ -144,17 +143,15 @@ if __name__ == '__main__':
     
     # random image from the folder
     if model in ['Allie Haze']:
-        image_dir = Path('data_img/allieh')
-    elif model in ['Camryn']:
-        image_dir = Path('data_img/camryn')
+        image_dir = Path('data_img/AllieHaze_model')
     elif model in ['Emma Kuziara']:
-        image_dir = Path("data_img/emmak")
+        image_dir = Path("data_img/EmmaKuziara_model")
     elif model in ['Kylie Page']:
-        image_dir = Path("data_img/kyliep")
+        image_dir = Path("data_img/KyliePage_model")
     elif model in ['Leanna Lovings']:
-        image_dir = Path("data_img/leannal")
+        image_dir = Path("data_img/LeannaLovings_model")
     elif model in ['Sapphire Blue']:
-        image_dir = Path("data_img/sapphireb")
+        image_dir = Path("data_img/SapphireBlue_model")
     
     images = list(image_dir.glob("*.jpg")) + list(image_dir.glob("*.png"))
     if not images:
@@ -178,7 +175,9 @@ if __name__ == '__main__':
     with open(filepath, 'w') as f:
         f.writelines(lines_to_save)
     
-    print('Word database saved: ', words)
+    if '-verbose' in sys.argv:
+        print('Word database saved: ', words)
+    
     with open(file_path, 'wb') as file:
         pickle.dump(words, file)
         
