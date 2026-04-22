@@ -1,4 +1,6 @@
-# Notes about ffpmeg
+# Notes about ffmpeg
+
+I use ffmpeg frequently for basic video editing! Here are some tips for myself and for others.
 
 ## Downloading
 Easiest way in Windows is to use winget
@@ -22,3 +24,9 @@ Then just do as such:
 `ffmpeg -f concat -safe 0 -i list.txt -c copy output.webm`
 
 If not the same resolution, codec and frame rate, drop the `-c copy` and ffmpeg will re-encode to normalize them.
+
+## Example of cropping videos
+
+This will crop the video from its original resolution to 1280x720 pixels starting at pixel coordinates (150, 100).
+
+`ffmpeg -i .\input.mp4 -vf "crop=1280:720:150:100" cropped1.mp4`
