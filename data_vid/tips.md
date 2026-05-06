@@ -30,3 +30,9 @@ If not the same resolution, codec and frame rate, drop the `-c copy` and ffmpeg 
 This will crop the video from its original resolution to 1280x720 pixels starting at pixel coordinates (150, 100).
 
 `ffmpeg -i .\input.mp4 -vf "crop=1280:720:150:100" cropped1.mp4`
+
+## Example of ading a blackbox of 200 (wide) x 100 (high) in the corner
+
+If you need to keep the original video resolution but want to hide a logo or text in the bottom-right, use the `drawbox` filter
+
+`ffmpeg -i output.mp4 -vf "drawbox=x=iw-200:y=ih-50:w=200:h=50:color=black:t=fill" -c:a copy output2.mp4`
