@@ -6,6 +6,7 @@
 
 # Artifact settings
 writings/*.pdf
+writings/**/*.pdf
 
 # Spyder project settings
 .spyderproject
