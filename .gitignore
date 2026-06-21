@@ -4,6 +4,9 @@
 *.zip
 **/ignore
 
+# Artifact settings
+writings/*.pdf
+
 # Spyder project settings
 .spyderproject
 .spyproject

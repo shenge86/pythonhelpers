@@ -1,0 +1,48 @@
+# Pandoc defaults file for building "apoapsis" as a 6x9 print-ready PDF.
+# Run from inside this folder with:  pandoc --defaults=build.yaml
+# Paths below are relative to this folder.
+
+from: markdown
+to: pdf
+pdf-engine: xelatex
+output-file: apoapsis.pdf
+
+# Reading/build order. Add new chapters here as you write them; keep the
+# numeric filename prefixes so the order stays obvious.
+input-files:
+  - 00-front-cover.md
+  - 00-front-matter.md
+  - 00-foreword.md
+  - 00-toc.md                   # table of contents, placed right before Chapter 1
+  - chapters/01-the-journal.md
+  - chapters/02-the-break.md
+  - chapters/03-the-dream.md
+  - chapters/04-the-cantina.md
+  - chapters/05-the-message.md
+  - chapters/19-revelation.md
+  - poetry.md
+
+# TOC is inserted manually via 00-toc.md (so it sits before Chapter 1 instead
+# of at the very top), so pandoc's automatic top-of-document TOC is disabled here.
+toc: false
+
+# Folders pandoc searches for images. '.' covers root files (e.g. images/foo.png);
+# 'chapters' lets chapter files use file-relative paths like ../images/foo.png and
+# also reach the repo-level ../../../data_img. Both styles then resolve in the
+# editor preview AND the PDF build.
+resource-path: ['.', 'chapters']
+
+variables:
+  documentclass: book      # recto/verso, chapters start on new pages, mirrored margins
+  geometry:
+    - paperwidth=6in       # KDP 6x9 trim size
+    - paperheight=9in
+    - inner=0.875in        # gutter / binding-side margin (safe up to ~600 pages)
+    - outer=0.625in
+    - top=0.75in
+    - bottom=0.75in
+  # No mainfont set on purpose: the source doesn't specify one, so we use
+  # XeLaTeX's default book serif (Latin Modern Roman). To use a specific
+  # installed font later, add e.g.  mainfont: "Liberation Serif"
+  fontsize: 11pt
+  linestretch: 1.15
