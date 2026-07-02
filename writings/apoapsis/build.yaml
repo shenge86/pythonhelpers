@@ -19,6 +19,7 @@ input-files:
   - chapters/03-the-dream.md
   - chapters/04-the-cantina.md
   - chapters/05-the-message.md
+  - chapters/06-the-game.md
   - chapters/19-revelation.md
   - poetry.md
 
@@ -41,8 +42,11 @@ variables:
     - outer=0.625in
     - top=0.75in
     - bottom=0.75in
-  # No mainfont set on purpose: the source doesn't specify one, so we use
-  # XeLaTeX's default book serif (Latin Modern Roman). To use a specific
-  # installed font later, add e.g.  mainfont: "Liberation Serif"
+  # mainfont must be an EXACT installed family name (check with `fc-list : family`).
+  # "TeX Gyre Termes" is a print-quality Times clone that covers Latin + Greek
+  # (π ω Ψ θ λ). Alternatives also installed: "Noto Serif", "Tinos", "DejaVu Serif".
+  mainfont: "TeX Gyre Termes"
+  # CJKmainfont loads xecjk so Chinese (天, etc.) renders. From fonts-noto-cjk.
+  CJKmainfont: "Noto Serif CJK SC"
   fontsize: 11pt
   linestretch: 1.15

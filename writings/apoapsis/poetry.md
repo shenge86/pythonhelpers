@@ -25,7 +25,7 @@ The canvas of my heart cannot be drawn out by traces of lines from the slow drip
 To loosen grip of the gravitational pull of unimaginable magnitude,
 to move atoms freely to a new resonance unbounded by prior frequencies,
 to create new constellations from the death of old energy states,
-to reach something far greater requires a crescendo of change — 
+to reach something far greater requires a crescendo of change-
 a sudden supernova for the birth of a nebula with cosmic range
 
 ## Wilderness of My Mind
@@ -1674,19 +1674,19 @@ but a loving family and friends create its own light
 
 	master who only carries an unbidden smile
 
-they say dogs can view the soft soul
+    they say dogs can view the soft soul
 
-beneath the hard skin
+    beneath the hard skin
 
-the hard skin with creased shiny smiles
+    the hard skin with creased shiny smiles
 
-and empty long laughs and words
+    and empty long laughs and words
 
-carried on plates of platitudes
+    carried on plates of platitudes
 
-but no plate of anything unreal can feed the dog
+    but no plate of anything unreal can feed the dog
 
-a grimace … a growl … a whimper …
+    a grimace … a growl … a whimper …
 
 ## Delusions of Gods and Time
 
@@ -1726,13 +1726,13 @@ No known physical laws microscopically require a temporal direction
 
 Time is an evolution no longer valid in quantum gravity
 
-In the field equation H(Ψ)|Ψ⟩=0 
+In the field equation $H(\Psi)\,|\Psi\rangle = 0$
 
 H-hat acting on ket psi equals zero
 
 where
 
-H(Ψ) is the Hamiltonian constraint and |Ψ⟩ is universal wave-function
+$H(\Psi)$ is the Hamiltonian constraint and $|\Psi\rangle$ is universal wave-function
 
 Ill-defined in the general case, 
 
