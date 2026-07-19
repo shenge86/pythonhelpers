@@ -24,7 +24,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [DavidSteele_poet](#davidsteele-poet) (1)
 - [DeniseLevertov_poet](#deniselevertov-poet) (1)
 - [EmilyDickinson_poet](#emilydickinson-poet) (2)
-- [EmmaKuziara_model](#emmakuziara-model) (10)
+- [EmmaKuziara_model](#emmakuziara-model) (39)
 - [EzraPound_writer](#ezrapound-writer) (2)
 - [FritzSchleifer_artist](#fritzschleifer-artist) (1)
 - [GregoryOrr_poet](#gregoryorr-poet) (3)
@@ -105,7 +105,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [travel](#travel) (2)
 - [words](#words) (1)
 
-**Total images: 609**
+**Total images: 638**
 
 <a id="loose-images"></a>
 ## Loose images
@@ -406,6 +406,35 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="EmmaKuziara_model/emma-k-13%20%281%29.jpg" width="150" alt="emma-k-13 (1)" title="emma-k-13 (1)">
 <img src="EmmaKuziara_model/emma-k-13.jpg" width="150" alt="emma-k-13" title="emma-k-13">
 <img src="EmmaKuziara_model/emma-k-18.jpg" width="150" alt="emma-k-18" title="emma-k-18">
+<img src="EmmaKuziara_model/emmak04.jpg" width="150" alt="emmak04" title="emmak04">
+<img src="EmmaKuziara_model/shenlovesemmak01.jpg" width="150" alt="shenlovesemmak01" title="shenlovesemmak01">
+<img src="EmmaKuziara_model/shenlovesemmak02.jpg" width="150" alt="shenlovesemmak02" title="shenlovesemmak02">
+<img src="EmmaKuziara_model/shenlovesemmak03.jpg" width="150" alt="shenlovesemmak03" title="shenlovesemmak03">
+<img src="EmmaKuziara_model/shenlovesemmak04.jpg" width="150" alt="shenlovesemmak04" title="shenlovesemmak04">
+<img src="EmmaKuziara_model/shenlovesemmak05.jpg" width="150" alt="shenlovesemmak05" title="shenlovesemmak05">
+<img src="EmmaKuziara_model/shenlovesemmak06.jpg" width="150" alt="shenlovesemmak06" title="shenlovesemmak06">
+<img src="EmmaKuziara_model/shenlovesemmak07.jpg" width="150" alt="shenlovesemmak07" title="shenlovesemmak07">
+<img src="EmmaKuziara_model/shenlovesemmak08.jpg" width="150" alt="shenlovesemmak08" title="shenlovesemmak08">
+<img src="EmmaKuziara_model/shenlovesemmak09.jpg" width="150" alt="shenlovesemmak09" title="shenlovesemmak09">
+<img src="EmmaKuziara_model/shenlovesemmak10.jpg" width="150" alt="shenlovesemmak10" title="shenlovesemmak10">
+<img src="EmmaKuziara_model/shenlovesemmak11.jpg" width="150" alt="shenlovesemmak11" title="shenlovesemmak11">
+<img src="EmmaKuziara_model/shenlovesemmak12.jpg" width="150" alt="shenlovesemmak12" title="shenlovesemmak12">
+<img src="EmmaKuziara_model/shenlovesemmak13.jpg" width="150" alt="shenlovesemmak13" title="shenlovesemmak13">
+<img src="EmmaKuziara_model/shenlovesemmak14.jpg" width="150" alt="shenlovesemmak14" title="shenlovesemmak14">
+<img src="EmmaKuziara_model/shenlovesemmak15.jpg" width="150" alt="shenlovesemmak15" title="shenlovesemmak15">
+<img src="EmmaKuziara_model/shenlovesemmak16.jpg" width="150" alt="shenlovesemmak16" title="shenlovesemmak16">
+<img src="EmmaKuziara_model/shenlovesemmak17.jpg" width="150" alt="shenlovesemmak17" title="shenlovesemmak17">
+<img src="EmmaKuziara_model/shenlovesemmak18.jpg" width="150" alt="shenlovesemmak18" title="shenlovesemmak18">
+<img src="EmmaKuziara_model/shenlovesemmak19.jpg" width="150" alt="shenlovesemmak19" title="shenlovesemmak19">
+<img src="EmmaKuziara_model/shenlovesemmak20.jpg" width="150" alt="shenlovesemmak20" title="shenlovesemmak20">
+<img src="EmmaKuziara_model/shenlovesemmak21.jpg" width="150" alt="shenlovesemmak21" title="shenlovesemmak21">
+<img src="EmmaKuziara_model/shenlovesemmak22.jpg" width="150" alt="shenlovesemmak22" title="shenlovesemmak22">
+<img src="EmmaKuziara_model/shenlovesemmak23.jpg" width="150" alt="shenlovesemmak23" title="shenlovesemmak23">
+<img src="EmmaKuziara_model/shenlovesemmak24.jpg" width="150" alt="shenlovesemmak24" title="shenlovesemmak24">
+<img src="EmmaKuziara_model/shenlovesemmak25.jpg" width="150" alt="shenlovesemmak25" title="shenlovesemmak25">
+<img src="EmmaKuziara_model/shenlovesemmak26.jpg" width="150" alt="shenlovesemmak26" title="shenlovesemmak26">
+<img src="EmmaKuziara_model/shenlovesemmak27.jpg" width="150" alt="shenlovesemmak27" title="shenlovesemmak27">
+<img src="EmmaKuziara_model/shenlovesemmak28.jpg" width="150" alt="shenlovesemmak28" title="shenlovesemmak28">
 
 
 <a id="ezrapound-writer"></a>
