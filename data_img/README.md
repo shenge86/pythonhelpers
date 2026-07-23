@@ -57,7 +57,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [NikkiGiovanni_poet](#nikkigiovanni-poet) (3)
 - [OceanVuong_poet](#oceanvuong-poet) (1)
 - [PatSchneider_poet](#patschneider-poet) (1)
-- [Pixei_model](#pixei-model) (8)
+- [Pixei_model](#pixei-model) (14)
 - [Poet - Bei Dao](#poet-bei-dao) (1)
 - [Poet - Gong Liu (Modern poet)](#poet-gong-liu-modern-poet) (2)
 - [Poet - Gu Cheng](#poet-gu-cheng) (1)
@@ -105,7 +105,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [travel](#travel) (2)
 - [words](#words) (1)
 
-**Total images: 638**
+**Total images: 644**
 
 <a id="loose-images"></a>
 ## Loose images
@@ -725,6 +725,12 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="Pixei_model/pixei_06.jpg" width="150" alt="pixei_06" title="pixei_06">
 <img src="Pixei_model/pixei_07.jpg" width="150" alt="pixei_07" title="pixei_07">
 <img src="Pixei_model/pixei_08.jpg" width="150" alt="pixei_08" title="pixei_08">
+<img src="Pixei_model/pixei_09.jpg" width="150" alt="pixei_09" title="pixei_09">
+<img src="Pixei_model/pixei_10.jpg" width="150" alt="pixei_10" title="pixei_10">
+<img src="Pixei_model/pixei_11.jpg" width="150" alt="pixei_11" title="pixei_11">
+<img src="Pixei_model/pixei_12.jpg" width="150" alt="pixei_12" title="pixei_12">
+<img src="Pixei_model/pixei_13.jpg" width="150" alt="pixei_13" title="pixei_13">
+<img src="Pixei_model/pixei_14.jpg" width="150" alt="pixei_14" title="pixei_14">
 
 
 <a id="poet-bei-dao"></a>

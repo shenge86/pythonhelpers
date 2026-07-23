@@ -3,6 +3,8 @@
 
 Run this after adding/removing images or subfolders in data_img.
 """
+from __future__ import annotations
+
 import argparse
 import re
 from pathlib import Path
@@ -102,7 +104,8 @@ def main():
 
     root = args.dir.resolve()
     readme_path = root / "README.md"
-    readme_path.write_text(build_readme(root), encoding="utf-8", newline="\n")
+    with open(readme_path, "w", encoding="utf-8", newline="\n") as f:
+        f.write(build_readme(root))
     print(f"Wrote {readme_path}")
 
 
