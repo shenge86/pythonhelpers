@@ -46,8 +46,18 @@ What was even more alluring was the possibility of using AI to create people fro
 
 People didn't seem to care about the lawsuits that inevitably developed from improper use of others' likeness. It was a nightmare scenario for a lot of people who had to be careful what they put online lest entire avatars were created of them and used in ways they never intended. What technology has wrought was both a demon and an angel. Shen himself would never do this on anyone who was still alive since that felt like a sense of severe boundary intrusion.
 
-He got into his suit and loaded up a model from the early 21st century. The 3D representation was generated from him loading up hundreds of images of this woman through one of the most sophisticated AI girlfriend generation models in existence. The personality was loaded to be a charming elegant woman. There were some brief conversation but then he was in the action. She looked nothing like his ex which was what he wanted. The part of his mind that stated this was all just an illusion he ignored thoroughly. He also didn't want to think about who this woman was in real life back in the last century.
+He got into his suit and pulled the VR goggles over his head. The pre-selection screen was already active and he chose the first option. Her name was Stacie. He loaded up this particular model from the early 21st century. The 3D representation was generated from hundreds of images of this woman through one of the most sophisticated AI girlfriend generation models in existence. Endowed with large breasts and brunette hair, this AI generated model looked nothing like his ex. A realistic friendly personality was loaded to tie together with the visage of this woman. 
 
-The moaning and gyration went on for a while. In his suit, he heard the woman cry out his name and he cried out her name as well. He would have to carefully scrub the suit again after this mess.
+She was lying in bed already half-naked. To have some semblance of normalcy, he engaged in some brief conversation but the first skin contact led to immediate action. The part of his mind that stated this was all just an illusion he ignored thoroughly. Who this original woman was back in her time she didn't care. This woman was playing an illusion when she was alive modeling for an agency with probably a fake name. Now, she actually had a personality thanks to the power of artificial intelligence. 
 
 ![Stacie](../../../data_img/StacieA_model/stacie36_Stacie-A_high_0015.jpg)
+
+Next was a hot blonde named Emma who was dressed as a school girl. She was British also from the early 21st century. They had beautiful natural women back then before the synthetics and gene editing became the popular norm. Everyone wanted to look perfect and then no one looked actually natural. He had a good time with her too -- this time in the fields of what looked like Scotland.
+
+![Emma](../../../data_img/EmmaKuziara_model/shenlovesemmak25.jpg)
+
+There was a time he would have feel disgusted with himself afterwards knowing that this was possibly an unhealthy addiction but these days he didn't care. With real women, he would feel that he was using their bodies to temporarily alleviate his pain. With this, he at least didn't feel guilty he was using anyone as a bag of flesh. He was on the couch downstairs and he remained laying there.
+
+*Is she still on the ship or have they arrived?* As much as he tried to push away his thoughts, he could not. He thought about his ex on her one-way trip to visit some God-damn space aliens. How ironic that he was the aerospace engineer whereas she was the linguist. Yet, for first contact, who did they chose? And why did she agree to it even after he told her that the ship only had enough fuel for one-way? Did she think the space aliens would be willing or capable of giving their spacecraft a ride back to Earth or the fuel required to do so? Did she truly not care about her own survival? Worse, was it to get away from him or people like him?
+
+These thoughts made him feel sad and tired. He closed his eyes.

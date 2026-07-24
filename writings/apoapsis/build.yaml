@@ -1,6 +1,10 @@
 # Pandoc defaults file for building "apoapsis" as a 6x9 print-ready PDF.
-# Run from inside this folder with:  pandoc --defaults=build.yaml
+# Run from inside this folder with:  
+# pandoc --defaults=build.yaml
 # Paths below are relative to this folder.
+# To install in WSL or Linux, you must do the following:
+# sudo apt update
+# sudo apt install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-lang-cjk fonts-texgyre fonts-noto-cjk fonts-noto-core fonts-croscore fonts-dejavu-core
 
 from: markdown
 to: pdf
