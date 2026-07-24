@@ -38,6 +38,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [JoyceKilmer_poet](#joycekilmer-poet) (1)
 - [KanaTsuruta_model](#kanatsuruta-model) (4)
 - [KateBaer_poet](#katebaer-poet) (1)
+- [KaySavage_model](#kaysavage-model) (6)
 - [KylaJamieson_poet](#kylajamieson-poet) (1)
 - [KyliePage_model](#kyliepage-model) (6)
 - [LangstonHughes_poet](#langstonhughes-poet) (6)
@@ -84,6 +85,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [ShuntaroTanikawa_poet](#shuntarotanikawa-poet) (2)
 - [StacieA_model](#staciea-model) (38)
 - [SylviaPlath_writer](#sylviaplath-writer) (2)
+- [Technology](#technology) (6)
 - [TomHirons_poet](#tomhirons-poet) (1)
 - [TondaRos_gamedeveloper](#tondaros-gamedeveloper) (1)
 - [UrsulaLeguin_writer](#ursulaleguin-writer) (2)
@@ -105,7 +107,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [travel](#travel) (2)
 - [words](#words) (1)
 
-**Total images: 644**
+**Total images: 656**
 
 <a id="loose-images"></a>
 ## Loose images
@@ -531,6 +533,17 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 ## KateBaer_poet
 
 <img src="KateBaer_poet/l4toif9slgng1.png" width="150" alt="l4toif9slgng1" title="l4toif9slgng1">
+
+
+<a id="kaysavage-model"></a>
+## KaySavage_model
+
+<img src="KaySavage_model/kay01.jpg" width="150" alt="kay01" title="kay01">
+<img src="KaySavage_model/kayface01.jpg" width="150" alt="kayface01" title="kayface01">
+<img src="KaySavage_model/kayface02.jpg" width="150" alt="kayface02" title="kayface02">
+<img src="KaySavage_model/kayface03.jpg" width="150" alt="kayface03" title="kayface03">
+<img src="KaySavage_model/kayface04.jpg" width="150" alt="kayface04" title="kayface04">
+<img src="KaySavage_model/kayface05.jpg" width="150" alt="kayface05" title="kayface05">
 
 
 <a id="kylajamieson-poet"></a>
@@ -1006,6 +1019,17 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 
 <img src="SylviaPlath_writer/HEPQhMrbsAE9Pgo.jpg" width="150" alt="HEPQhMrbsAE9Pgo" title="HEPQhMrbsAE9Pgo">
 <img src="SylviaPlath_writer/HEQRNrLawAADr-3.jpg" width="150" alt="HEQRNrLawAADr-3" title="HEQRNrLawAADr-3">
+
+
+<a id="technology"></a>
+## Technology
+
+<img src="Technology/Diptych/Table_with_was_and_stylus_Roman_times.jpg" width="150" alt="Table_with_was_and_stylus_Roman_times" title="Table_with_was_and_stylus_Roman_times">
+<img src="Technology/WritingTablets/71Db3d%2BqtTL._SY500_.jpg" width="150" alt="71Db3d+qtTL._SY500_" title="71Db3d+qtTL._SY500_">
+<img src="Technology/WritingTablets/71IVE7DcX-L._AC_SL1500_.jpg" width="150" alt="71IVE7DcX-L._AC_SL1500_" title="71IVE7DcX-L._AC_SL1500_">
+<img src="Technology/WritingTablets/71yyJuFG9TL.jpg" width="150" alt="71yyJuFG9TL" title="71yyJuFG9TL">
+<img src="Technology/WritingTablets/Q1A8491_2000x.webp" width="150" alt="Q1A8491_2000x" title="Q1A8491_2000x">
+<img src="Technology/WritingTablets/in-love-with-my-alphasmart-neo2-so-far-great-keyboard-v0-airmzqp6otmd1.webp" width="150" alt="in-love-with-my-alphasmart-neo2-so-far-great-keyboard-v0-airmzqp6otmd1" title="in-love-with-my-alphasmart-neo2-so-far-great-keyboard-v0-airmzqp6otmd1">
 
 
 <a id="tomhirons-poet"></a>
