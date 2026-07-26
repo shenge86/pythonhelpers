@@ -24,6 +24,7 @@ input-files:
   - chapters/04-the-cantina.md
   - chapters/05-the-message.md
   - chapters/06-the-game.md
+  - chapters/07-the-code.md
   - chapters/19-revelation.md
   - poetry.md
 

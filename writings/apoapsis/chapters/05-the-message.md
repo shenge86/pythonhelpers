@@ -50,14 +50,12 @@ He got into his suit and pulled the VR goggles over his head. The pre-selection 
 
 She was lying in bed already half-naked. To have some semblance of normalcy, he engaged in some brief conversation but the first skin contact led to immediate action. The part of his mind that stated this was all just an illusion he ignored thoroughly. Who this original woman was back in her time she didn't care. This woman was playing an illusion when she was alive modeling for an agency with probably a fake name. Now, she actually had a personality thanks to the power of artificial intelligence. 
 
-![Stacie](../../../data_img/StacieA_model/stacie36_Stacie-A_high_0015.jpg)
-
 Next was a hot blonde named Emma who was dressed as a school girl. She was British also from the early 21st century. They had beautiful natural women back then before the synthetics and gene editing became the popular norm. Everyone wanted to look perfect and then no one looked actually natural. He had a good time with her too -- this time in the fields of what looked like Scotland.
-
-![Emma](../../../data_img/EmmaKuziara_model/shenlovesemmak25.jpg)
 
 There was a time he would have feel disgusted with himself afterwards knowing that this was possibly an unhealthy addiction but these days he didn't care. With real women, he would feel that he was using their bodies to temporarily alleviate his pain. With this, he at least didn't feel guilty he was using anyone as a bag of flesh. He was on the couch downstairs and he remained laying there.
 
-*Is she still on the ship or have they arrived?* As much as he tried to push away his thoughts, he could not. He thought about his ex on her one-way trip to visit some God-damn space aliens. How ironic that he was the aerospace engineer whereas she was the linguist. Yet, for first contact, who did they chose? And why did she agree to it even after he told her that the ship only had enough fuel for one-way? Did she think the space aliens would be willing or capable of giving their spacecraft a ride back to Earth or the fuel required to do so? Did she truly not care about her own survival? Worse, was it to get away from him or people like him?
+*Is she still on the ship or have they arrived?* Was this part of the story or was this reality? Sometimes Shen felt like he was living in between worlds. This was his story and this was reality. She was on the ship. That's right. He had tried to forget and pretend that he lived in the early 21st century as someone else who had far lesser concerns than first contact with an alien species and his ex-partner on that trip to try to interface with those aliens. 
+
+How ironic that he was the aerospace engineer whereas she was the linguist. Yet, for first contact, who did they chose? And why did she agree to it even after he told her that the ship only had enough fuel for one-way? Did she think the space aliens would be willing or capable of giving their spacecraft a ride back to Earth or the fuel required to do so? Did she truly believe that her dream was more important than her own life? Was there nothing on Earth that would be worth it to her? Was he not worth it?
 
 These thoughts made him feel sad and tired. He closed his eyes.

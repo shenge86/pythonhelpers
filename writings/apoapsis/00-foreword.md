@@ -10,7 +10,7 @@ The characters depicted may or may not be modeled on real humans the author know
 | Chief Officer | Vishwathmane | Vishwathmane | Shen |
 | Chief Scientist | Lorie Roberts | Lorie Roberts | Dennis Roberts |
 | Comms Officer | Maria Sandivar | Mary Sands | Mary Sands |
-| Navigator | Kara Smith | Kara Smith | Kara Smith |
+| Navigator | Kara | Kara | Kara |
 | Navigator | Joel Jones | Roy Jones | Richard Jones |
 | Ethnographer | Megan | N/A | N/A |
-
+| Left on Earth | Shen | N/A | N/A |
