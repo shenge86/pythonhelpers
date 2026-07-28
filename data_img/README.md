@@ -13,9 +13,11 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [AndreaCohen_poet](#andreacohen-poet) (2)
 - [AnnaAkhmatova_poet](#annaakhmatova-poet) (1)
 - [AnneSexton_poet](#annesexton-poet) (2)
+- [Art](#art) (7)
 - [AudreLorde_writer](#audrelorde-writer) (1)
 - [BarbaraKingsolver_poet](#barbarakingsolver-poet) (1)
 - [BoBartlett_artist](#bobartlett-artist) (20)
+- [Books](#books) (7)
 - [CampbellMcgrath_poet](#campbellmcgrath-poet) (1)
 - [CarlSandburg_writer](#carlsandburg-writer) (5)
 - [CharlesRafferty_poet](#charlesrafferty-poet) (1)
@@ -26,6 +28,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [EmilyDickinson_poet](#emilydickinson-poet) (2)
 - [EmmaKuziara_model](#emmakuziara-model) (39)
 - [EzraPound_writer](#ezrapound-writer) (2)
+- [Fashion](#fashion) (3)
 - [FritzSchleifer_artist](#fritzschleifer-artist) (1)
 - [GregoryOrr_poet](#gregoryorr-poet) (3)
 - [IlyaKaminsky_poet](#ilyakaminsky-poet) (1)
@@ -53,7 +56,8 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [MaxineKumin_poet](#maxinekumin-poet) (1)
 - [MayaAngelou_writer](#mayaangelou-writer) (2)
 - [MichaelBazzett_poet](#michaelbazzett-poet) (1)
-- [Movies](#movies) (1)
+- [Movies](#movies) (2)
+- [NadineSage_model](#nadinesage-model) (23)
 - [NanaseAsahina_model](#nanaseasahina-model) (6)
 - [NikkiGiovanni_poet](#nikkigiovanni-poet) (3)
 - [OceanVuong_poet](#oceanvuong-poet) (1)
@@ -101,13 +105,13 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [camryn](#camryn) (2)
 - [kaixkitsune_model](#kaixkitsune-model) (10)
 - [missmercyy_asmr](#missmercyy-asmr) (1)
-- [poetry](#poetry) (107)
+- [poetry](#poetry) (108)
 - [psychology](#psychology) (1)
 - [shanny_asmr](#shanny-asmr) (1)
 - [travel](#travel) (2)
 - [words](#words) (1)
 
-**Total images: 656**
+**Total images: 698**
 
 <a id="loose-images"></a>
 ## Loose images
@@ -305,6 +309,18 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="AnneSexton_poet/woqbd3jar0pg1.jpeg" width="150" alt="woqbd3jar0pg1" title="woqbd3jar0pg1">
 
 
+<a id="art"></a>
+## Art
+
+<img src="Art/20260721_174736.jpg" width="150" alt="20260721_174736" title="20260721_174736">
+<img src="Art/20260721_174757.jpg" width="150" alt="20260721_174757" title="20260721_174757">
+<img src="Art/20260721_174805.jpg" width="150" alt="20260721_174805" title="20260721_174805">
+<img src="Art/20260722_110327.jpg" width="150" alt="20260722_110327" title="20260722_110327">
+<img src="Art/20260723_164355.jpg" width="150" alt="20260723_164355" title="20260723_164355">
+<img src="Art/20260723_225023.jpg" width="150" alt="20260723_225023" title="20260723_225023">
+<img src="Art/20260723_225027.jpg" width="150" alt="20260723_225027" title="20260723_225027">
+
+
 <a id="audrelorde-writer"></a>
 ## AudreLorde_writer
 
@@ -340,6 +356,18 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="BoBartlett_artist/galleryhenoch-bo-bartlett-the-prayers-2004.webp" width="150" alt="galleryhenoch-bo-bartlett-the-prayers-2004" title="galleryhenoch-bo-bartlett-the-prayers-2004">
 <img src="BoBartlett_artist/milesmcenerygallery-bo-bartlett-the-debutantes-2026.webp" width="150" alt="milesmcenerygallery-bo-bartlett-the-debutantes-2026" title="milesmcenerygallery-bo-bartlett-the-debutantes-2026">
 <img src="BoBartlett_artist/qh01mkzo5zb11.jpg" width="150" alt="qh01mkzo5zb11" title="qh01mkzo5zb11">
+
+
+<a id="books"></a>
+## Books
+
+<img src="Books/117255-rend.png" width="150" alt="117255-rend" title="117255-rend">
+<img src="Books/139532-nathan-free-natalie-bound.png" width="150" alt="139532-nathan-free-natalie-bound" title="139532-nathan-free-natalie-bound">
+<img src="Books/141704-gunwitch-litrpg.png" width="150" alt="141704-gunwitch-litrpg" title="141704-gunwitch-litrpg">
+<img src="Books/181480-max-level-vampire-rebuilds-the-demon-kingdom.png" width="150" alt="181480-max-level-vampire-rebuilds-the-demon-kingdom" title="181480-max-level-vampire-rebuilds-the-demon-kingdom">
+<img src="Books/Copy-of-Black-and-White-Minimalist-Gaming-Channel-Banner-Landscape.png" width="150" alt="Copy-of-Black-and-White-Minimalist-Gaming-Channel-Banner-Landscape" title="Copy-of-Black-and-White-Minimalist-Gaming-Channel-Banner-Landscape">
+<img src="Books/how-to-survive-as-a-starter-villain-litrpg-op.png" width="150" alt="how-to-survive-as-a-starter-villain-litrpg-op" title="how-to-survive-as-a-starter-villain-litrpg-op">
+<img src="Books/prelude-to-domathra-aacaajplsrg.png" width="150" alt="prelude-to-domathra-aacaajplsrg" title="prelude-to-domathra-aacaajplsrg">
 
 
 <a id="campbellmcgrath-poet"></a>
@@ -444,6 +472,14 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 
 <img src="EzraPound_writer/images.webp" width="150" alt="images" title="images">
 <img src="EzraPound_writer/poem-and-the-days-are-not-full-enough-ezra-pound-v0-wma2gvi9f9tf1.webp" width="150" alt="poem-and-the-days-are-not-full-enough-ezra-pound-v0-wma2gvi9f9tf1" title="poem-and-the-days-are-not-full-enough-ezra-pound-v0-wma2gvi9f9tf1">
+
+
+<a id="fashion"></a>
+## Fashion
+
+<img src="Fashion/Hennin/Young_Woman_with_a_Pink_MET_DT200206.jpg" width="150" alt="Young_Woman_with_a_Pink_MET_DT200206" title="Young_Woman_with_a_Pink_MET_DT200206">
+<img src="Fashion/Hennin/images.jpg" width="150" alt="images" title="images">
+<img src="Fashion/il_fullxfull.5687106518_1c1g.webp" width="150" alt="il_fullxfull.5687106518_1c1g" title="il_fullxfull.5687106518_1c1g">
 
 
 <a id="fritzschleifer-artist"></a>
@@ -694,6 +730,35 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 ## Movies
 
 <img src="Movies/Indie_Game_The_Movie_poster.png" width="150" alt="Indie_Game_The_Movie_poster" title="Indie_Game_The_Movie_poster">
+<img src="Movies/Tomorrowland_poster.jpg" width="150" alt="Tomorrowland_poster" title="Tomorrowland_poster">
+
+
+<a id="nadinesage-model"></a>
+## NadineSage_model
+
+<img src="NadineSage_model/nadine00.jpg" width="150" alt="nadine00" title="nadine00">
+<img src="NadineSage_model/nadine000.jpg" width="150" alt="nadine000" title="nadine000">
+<img src="NadineSage_model/nadine001.jpg" width="150" alt="nadine001" title="nadine001">
+<img src="NadineSage_model/nadine002.jpg" width="150" alt="nadine002" title="nadine002">
+<img src="NadineSage_model/nadine003.jpg" width="150" alt="nadine003" title="nadine003">
+<img src="NadineSage_model/nadine004.jpg" width="150" alt="nadine004" title="nadine004">
+<img src="NadineSage_model/nadine005.jpg" width="150" alt="nadine005" title="nadine005">
+<img src="NadineSage_model/nadine01.jpg" width="150" alt="nadine01" title="nadine01">
+<img src="NadineSage_model/nadine02.jpg" width="150" alt="nadine02" title="nadine02">
+<img src="NadineSage_model/nadine03.jpg" width="150" alt="nadine03" title="nadine03">
+<img src="NadineSage_model/nadine04.jpg" width="150" alt="nadine04" title="nadine04">
+<img src="NadineSage_model/nadine05.jpg" width="150" alt="nadine05" title="nadine05">
+<img src="NadineSage_model/nadine06.jpg" width="150" alt="nadine06" title="nadine06">
+<img src="NadineSage_model/nadine07.jpg" width="150" alt="nadine07" title="nadine07">
+<img src="NadineSage_model/nadine08.jpg" width="150" alt="nadine08" title="nadine08">
+<img src="NadineSage_model/nadine09.jpg" width="150" alt="nadine09" title="nadine09">
+<img src="NadineSage_model/nadine10.jpg" width="150" alt="nadine10" title="nadine10">
+<img src="NadineSage_model/nadine11.jpg" width="150" alt="nadine11" title="nadine11">
+<img src="NadineSage_model/nadine12.jpg" width="150" alt="nadine12" title="nadine12">
+<img src="NadineSage_model/nadine13.jpg" width="150" alt="nadine13" title="nadine13">
+<img src="NadineSage_model/nadine14.jpg" width="150" alt="nadine14" title="nadine14">
+<img src="NadineSage_model/nadine15.jpg" width="150" alt="nadine15" title="nadine15">
+<img src="NadineSage_model/nadine16.jpg" width="150" alt="nadine16" title="nadine16">
 
 
 <a id="nanaseasahina-model"></a>
@@ -1141,6 +1206,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <a id="poetry"></a>
 ## poetry
 
+<img src="poetry/20260712_160808.jpg" width="150" alt="20260712_160808" title="20260712_160808">
 <img src="poetry/after-the-divorce-i-think-of-something-my-daughter-said-v0-y8ue85rj0dre1.webp" width="150" alt="after-the-divorce-i-think-of-something-my-daughter-said-v0-y8ue85rj0dre1" title="after-the-divorce-i-think-of-something-my-daughter-said-v0-y8ue85rj0dre1">
 <img src="poetry/help-looking-for-the-author-of-this-poem-my-husband-is-v0-euke3r4queag1.webp" width="150" alt="help-looking-for-the-author-of-this-poem-my-husband-is-v0-euke3r4queag1" title="help-looking-for-the-author-of-this-poem-my-husband-is-v0-euke3r4queag1">
 <img src="poetry/january-by-w-s-merwin-v0-ub8k4wrysydg1.webp" width="150" alt="january-by-w-s-merwin-v0-ub8k4wrysydg1" title="january-by-w-s-merwin-v0-ub8k4wrysydg1">
