@@ -4,7 +4,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 
 ## Contents
 
-- [Loose images](#loose-images) (124)
+- [Loose images](#loose-images) (127)
 - [AdaLimon_poet](#adalimon-poet) (1)
 - [AlessandraJane_model](#alessandrajane-model) (5)
 - [AliceKisiya_activist](#alicekisiya-activist) (6)
@@ -25,6 +25,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [DavidFincher_director](#davidfincher-director) (1)
 - [DavidSteele_poet](#davidsteele-poet) (1)
 - [DeniseLevertov_poet](#deniselevertov-poet) (1)
+- [DorothyParker_poet](#dorothyparker-poet) (4)
 - [EmilyDickinson_poet](#emilydickinson-poet) (2)
 - [EmmaKuziara_model](#emmakuziara-model) (39)
 - [EzraPound_writer](#ezrapound-writer) (2)
@@ -42,6 +43,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [KanaTsuruta_model](#kanatsuruta-model) (4)
 - [KateBaer_poet](#katebaer-poet) (1)
 - [KaySavage_model](#kaysavage-model) (6)
+- [KimberDay_model](#kimberday-model) (27)
 - [KylaJamieson_poet](#kylajamieson-poet) (1)
 - [KyliePage_model](#kyliepage-model) (6)
 - [LangstonHughes_poet](#langstonhughes-poet) (6)
@@ -97,7 +99,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [VasylSymonenko_poet](#vasylsymonenko-poet) (2)
 - [VernRutsala_poet](#vernrutsala-poet) (1)
 - [WendellBerry_poet](#wendellberry-poet) (1)
-- [WilliamButlerYeats_poet](#williambutleryeats-poet) (1)
+- [WilliamButlerYeats_poet](#williambutleryeats-poet) (2)
 - [WislawaSzymborska_poet](#wislawaszymborska-poet) (1)
 - [YanAi-Lin_poet](#yanai-lin-poet) (2)
 - [YehudaAmichai_poet](#yehudaamichai-poet) (1)
@@ -111,12 +113,13 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [travel](#travel) (2)
 - [words](#words) (1)
 
-**Total images: 698**
+**Total images: 733**
 
 <a id="loose-images"></a>
 ## Loose images
 
 <img src="20260313_214053.jpg" width="150" alt="20260313_214053" title="20260313_214053">
+<img src="2314826794_fdf07407a8.jpg" width="150" alt="2314826794_fdf07407a8" title="2314826794_fdf07407a8">
 <img src="G0Fb_gVWwAA-rWS.jpg" width="150" alt="G0Fb_gVWwAA-rWS" title="G0Fb_gVWwAA-rWS">
 <img src="G2bshOLW8AAwl7i.jpg" width="150" alt="G2bshOLW8AAwl7i" title="G2bshOLW8AAwl7i">
 <img src="G3KqzqwWwAAIYVC.jpg" width="150" alt="G3KqzqwWwAAIYVC" title="G3KqzqwWwAAIYVC">
@@ -214,6 +217,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="itap-of-nature-v0-qhphy27vtd1g1.webp" width="150" alt="itap-of-nature-v0-qhphy27vtd1g1" title="itap-of-nature-v0-qhphy27vtd1g1">
 <img src="its-not-possible-to-take-such-a-photograph-anymore-as-the-v0-jj3p412qo01g1.webp" width="150" alt="its-not-possible-to-take-such-a-photograph-anymore-as-the-v0-jj3p412qo01g1" title="its-not-possible-to-take-such-a-photograph-anymore-as-the-v0-jj3p412qo01g1">
 <img src="jellyfish.jpg" width="150" alt="jellyfish" title="jellyfish">
+<img src="molested1.gif" width="150" alt="molested1" title="molested1">
 <img src="moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1.webp" width="150" alt="moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1" title="moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1">
 <img src="mr-totally-not-fae-needs-a-few-more-lessons-on-blending-in-v0-5cu9cl38dg471.webp" width="150" alt="mr-totally-not-fae-needs-a-few-more-lessons-on-blending-in-v0-5cu9cl38dg471" title="mr-totally-not-fae-needs-a-few-more-lessons-on-blending-in-v0-5cu9cl38dg471">
 <img src="my-oil-painting-wanderers-between-worlds-v0-8rbc8b60cx0g1.webp" width="150" alt="my-oil-painting-wanderers-between-worlds-v0-8rbc8b60cx0g1" title="my-oil-painting-wanderers-between-worlds-v0-8rbc8b60cx0g1">
@@ -221,6 +225,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="night-traffic-python-pixel-sorting-v0-86h3pyvoi55g1.webp" width="150" alt="night-traffic-python-pixel-sorting-v0-86h3pyvoi55g1" title="night-traffic-python-pixel-sorting-v0-86h3pyvoi55g1">
 <img src="paper-coding-v0-8xsuhsp7ezng1.webp" width="150" alt="paper-coding-v0-8xsuhsp7ezng1" title="paper-coding-v0-8xsuhsp7ezng1">
 <img src="red-riding-hood-v0-gyu0ksw8395g1.webp" width="150" alt="red-riding-hood-v0-gyu0ksw8395g1" title="red-riding-hood-v0-gyu0ksw8395g1">
+<img src="screen-shot-2014-02-26-at-10-22-23-pm.jpg" width="150" alt="screen-shot-2014-02-26-at-10-22-23-pm" title="screen-shot-2014-02-26-at-10-22-23-pm">
 <img src="shuttles-shot-by-myself-in-kazakhstan-cosmodrome-v0-zj0hdu35ut0g1.webp" width="150" alt="shuttles-shot-by-myself-in-kazakhstan-cosmodrome-v0-zj0hdu35ut0g1" title="shuttles-shot-by-myself-in-kazakhstan-cosmodrome-v0-zj0hdu35ut0g1">
 <img src="some-experimental-equipment-in-the-forest-v0-ncgit4r6a8dg1.webp" width="150" alt="some-experimental-equipment-in-the-forest-v0-ncgit4r6a8dg1" title="some-experimental-equipment-in-the-forest-v0-ncgit4r6a8dg1">
 <img src="some-scans-from-the-book-i-am-altering-v0-a7p3q79tfk9g1.webp" width="150" alt="some-scans-from-the-book-i-am-altering-v0-a7p3q79tfk9g1" title="some-scans-from-the-book-i-am-altering-v0-a7p3q79tfk9g1">
@@ -416,6 +421,15 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="DeniseLevertov_poet/j8ajbsr2vidh1.jpeg" width="150" alt="j8ajbsr2vidh1" title="j8ajbsr2vidh1">
 
 
+<a id="dorothyparker-poet"></a>
+## DorothyParker_poet
+
+<img src="DorothyParker_poet/Algonquin_Round_Table.gif" width="150" alt="Algonquin_Round_Table" title="Algonquin_Round_Table">
+<img src="DorothyParker_poet/Enough_Rope_by_Dorothy_Parker.jpg" width="150" alt="Enough_Rope_by_Dorothy_Parker" title="Enough_Rope_by_Dorothy_Parker">
+<img src="DorothyParker_poet/Young_Dorothy_Parker.jpg" width="150" alt="Young_Dorothy_Parker" title="Young_Dorothy_Parker">
+<img src="DorothyParker_poet/il_fullxfull.1775014189_7zey.jpg" width="150" alt="il_fullxfull.1775014189_7zey" title="il_fullxfull.1775014189_7zey">
+
+
 <a id="emilydickinson-poet"></a>
 ## EmilyDickinson_poet
 
@@ -580,6 +594,38 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="KaySavage_model/kayface03.jpg" width="150" alt="kayface03" title="kayface03">
 <img src="KaySavage_model/kayface04.jpg" width="150" alt="kayface04" title="kayface04">
 <img src="KaySavage_model/kayface05.jpg" width="150" alt="kayface05" title="kayface05">
+
+
+<a id="kimberday-model"></a>
+## KimberDay_model
+
+<img src="KimberDay_model/kimberday01.jpg" width="150" alt="kimberday01" title="kimberday01">
+<img src="KimberDay_model/kimberday02.jpg" width="150" alt="kimberday02" title="kimberday02">
+<img src="KimberDay_model/kimberday03.jpg" width="150" alt="kimberday03" title="kimberday03">
+<img src="KimberDay_model/kimberday04.jpg" width="150" alt="kimberday04" title="kimberday04">
+<img src="KimberDay_model/kimberday05.jpg" width="150" alt="kimberday05" title="kimberday05">
+<img src="KimberDay_model/kimberday06.jpg" width="150" alt="kimberday06" title="kimberday06">
+<img src="KimberDay_model/kimberday07.jpg" width="150" alt="kimberday07" title="kimberday07">
+<img src="KimberDay_model/kimberday08.jpg" width="150" alt="kimberday08" title="kimberday08">
+<img src="KimberDay_model/kimberday09.jpg" width="150" alt="kimberday09" title="kimberday09">
+<img src="KimberDay_model/kimberday10.jpg" width="150" alt="kimberday10" title="kimberday10">
+<img src="KimberDay_model/kimberday11.jpg" width="150" alt="kimberday11" title="kimberday11">
+<img src="KimberDay_model/kimberday12.jpg" width="150" alt="kimberday12" title="kimberday12">
+<img src="KimberDay_model/kimberday13.jpg" width="150" alt="kimberday13" title="kimberday13">
+<img src="KimberDay_model/kimberday14.jpg" width="150" alt="kimberday14" title="kimberday14">
+<img src="KimberDay_model/kimberday15.jpg" width="150" alt="kimberday15" title="kimberday15">
+<img src="KimberDay_model/kimberday16.jpg" width="150" alt="kimberday16" title="kimberday16">
+<img src="KimberDay_model/kimberdayx01.jpg" width="150" alt="kimberdayx01" title="kimberdayx01">
+<img src="KimberDay_model/kimberdayx02.jpg" width="150" alt="kimberdayx02" title="kimberdayx02">
+<img src="KimberDay_model/kimberdayx03.jpg" width="150" alt="kimberdayx03" title="kimberdayx03">
+<img src="KimberDay_model/kimberdayx04.jpg" width="150" alt="kimberdayx04" title="kimberdayx04">
+<img src="KimberDay_model/kimberdayx05.jpg" width="150" alt="kimberdayx05" title="kimberdayx05">
+<img src="KimberDay_model/kimberdayx06.jpg" width="150" alt="kimberdayx06" title="kimberdayx06">
+<img src="KimberDay_model/kimberdayx07.jpg" width="150" alt="kimberdayx07" title="kimberdayx07">
+<img src="KimberDay_model/kimberdayx08.jpg" width="150" alt="kimberdayx08" title="kimberdayx08">
+<img src="KimberDay_model/kimberdayx09.jpg" width="150" alt="kimberdayx09" title="kimberdayx09">
+<img src="KimberDay_model/kimberdayx10.jpg" width="150" alt="kimberdayx10" title="kimberdayx10">
+<img src="KimberDay_model/kimberdayx11.jpg" width="150" alt="kimberdayx11" title="kimberdayx11">
 
 
 <a id="kylajamieson-poet"></a>
@@ -1144,6 +1190,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <a id="williambutleryeats-poet"></a>
 ## WilliamButlerYeats_poet
 
+<img src="WilliamButlerYeats_poet/images.jpg" width="150" alt="images" title="images">
 <img src="WilliamButlerYeats_poet/poem-those-images-by-william-butler-yeats-v0-ikovvq861o8h1.webp" width="150" alt="poem-those-images-by-william-butler-yeats-v0-ikovvq861o8h1" title="poem-those-images-by-william-butler-yeats-v0-ikovvq861o8h1">
 
 
