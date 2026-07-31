@@ -43,7 +43,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [KanaTsuruta_model](#kanatsuruta-model) (4)
 - [KateBaer_poet](#katebaer-poet) (1)
 - [KaySavage_model](#kaysavage-model) (6)
-- [KimberDay_model](#kimberday-model) (27)
+- [KimberDay_model](#kimberday-model) (62)
 - [KylaJamieson_poet](#kylajamieson-poet) (1)
 - [KyliePage_model](#kyliepage-model) (6)
 - [LangstonHughes_poet](#langstonhughes-poet) (6)
@@ -113,7 +113,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [travel](#travel) (2)
 - [words](#words) (1)
 
-**Total images: 733**
+**Total images: 768**
 
 <a id="loose-images"></a>
 ## Loose images
@@ -206,6 +206,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="enter-illinois-road-sign-at-the-indiana-border-in-the-1940s-v0-9gqmspktcz9g1.webp" width="150" alt="enter-illinois-road-sign-at-the-indiana-border-in-the-1940s-v0-9gqmspktcz9g1" title="enter-illinois-road-sign-at-the-indiana-border-in-the-1940s-v0-9gqmspktcz9g1">
 <img src="explain-this-one-v0-faoyc0xr382g1.webp" width="150" alt="explain-this-one-v0-faoyc0xr382g1" title="explain-this-one-v0-faoyc0xr382g1">
 <img src="finally-getting-interviews-v0-yfp7ce1h54hg1.webp" width="150" alt="finally-getting-interviews-v0-yfp7ce1h54hg1" title="finally-getting-interviews-v0-yfp7ce1h54hg1">
+<img src="glasses.gif" width="150" alt="glasses" title="glasses">
 <img src="husband.jpg" width="150" alt="husband" title="husband">
 <img src="i-had-a-mid-grade-fever-when-i-thought-of-this-doodle-idea-v0-ugfwjvpt4cog1.webp" width="150" alt="i-had-a-mid-grade-fever-when-i-thought-of-this-doodle-idea-v0-ugfwjvpt4cog1" title="i-had-a-mid-grade-fever-when-i-thought-of-this-doodle-idea-v0-ugfwjvpt4cog1">
 <img src="i-made-this-painting-for-a-craft-exchange-for-a-girl-who-v0-7sqw9gfze7dg1.webp" width="150" alt="i-made-this-painting-for-a-craft-exchange-for-a-girl-who-v0-7sqw9gfze7dg1" title="i-made-this-painting-for-a-craft-exchange-for-a-girl-who-v0-7sqw9gfze7dg1">
@@ -217,7 +218,6 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="itap-of-nature-v0-qhphy27vtd1g1.webp" width="150" alt="itap-of-nature-v0-qhphy27vtd1g1" title="itap-of-nature-v0-qhphy27vtd1g1">
 <img src="its-not-possible-to-take-such-a-photograph-anymore-as-the-v0-jj3p412qo01g1.webp" width="150" alt="its-not-possible-to-take-such-a-photograph-anymore-as-the-v0-jj3p412qo01g1" title="its-not-possible-to-take-such-a-photograph-anymore-as-the-v0-jj3p412qo01g1">
 <img src="jellyfish.jpg" width="150" alt="jellyfish" title="jellyfish">
-<img src="molested1.gif" width="150" alt="molested1" title="molested1">
 <img src="moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1.webp" width="150" alt="moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1" title="moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1">
 <img src="mr-totally-not-fae-needs-a-few-more-lessons-on-blending-in-v0-5cu9cl38dg471.webp" width="150" alt="mr-totally-not-fae-needs-a-few-more-lessons-on-blending-in-v0-5cu9cl38dg471" title="mr-totally-not-fae-needs-a-few-more-lessons-on-blending-in-v0-5cu9cl38dg471">
 <img src="my-oil-painting-wanderers-between-worlds-v0-8rbc8b60cx0g1.webp" width="150" alt="my-oil-painting-wanderers-between-worlds-v0-8rbc8b60cx0g1" title="my-oil-painting-wanderers-between-worlds-v0-8rbc8b60cx0g1">
@@ -615,6 +615,24 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="KimberDay_model/kimberday14.jpg" width="150" alt="kimberday14" title="kimberday14">
 <img src="KimberDay_model/kimberday15.jpg" width="150" alt="kimberday15" title="kimberday15">
 <img src="KimberDay_model/kimberday16.jpg" width="150" alt="kimberday16" title="kimberday16">
+<img src="KimberDay_model/kimberday17.jpg" width="150" alt="kimberday17" title="kimberday17">
+<img src="KimberDay_model/kimberday18.jpg" width="150" alt="kimberday18" title="kimberday18">
+<img src="KimberDay_model/kimberday19.jpg" width="150" alt="kimberday19" title="kimberday19">
+<img src="KimberDay_model/kimberday20.jpg" width="150" alt="kimberday20" title="kimberday20">
+<img src="KimberDay_model/kimberday21.jpg" width="150" alt="kimberday21" title="kimberday21">
+<img src="KimberDay_model/kimberday22.jpg" width="150" alt="kimberday22" title="kimberday22">
+<img src="KimberDay_model/kimberday23.jpg" width="150" alt="kimberday23" title="kimberday23">
+<img src="KimberDay_model/kimberday24.jpg" width="150" alt="kimberday24" title="kimberday24">
+<img src="KimberDay_model/kimberday25.jpg" width="150" alt="kimberday25" title="kimberday25">
+<img src="KimberDay_model/kimberday26.jpg" width="150" alt="kimberday26" title="kimberday26">
+<img src="KimberDay_model/kimberday27.jpg" width="150" alt="kimberday27" title="kimberday27">
+<img src="KimberDay_model/kimberday28.jpg" width="150" alt="kimberday28" title="kimberday28">
+<img src="KimberDay_model/kimberday29.jpg" width="150" alt="kimberday29" title="kimberday29">
+<img src="KimberDay_model/kimberday30.jpg" width="150" alt="kimberday30" title="kimberday30">
+<img src="KimberDay_model/kimberday31.jpg" width="150" alt="kimberday31" title="kimberday31">
+<img src="KimberDay_model/kimberday32.jpg" width="150" alt="kimberday32" title="kimberday32">
+<img src="KimberDay_model/kimberday33.jpg" width="150" alt="kimberday33" title="kimberday33">
+<img src="KimberDay_model/kimberday34.jpg" width="150" alt="kimberday34" title="kimberday34">
 <img src="KimberDay_model/kimberdayx01.jpg" width="150" alt="kimberdayx01" title="kimberdayx01">
 <img src="KimberDay_model/kimberdayx02.jpg" width="150" alt="kimberdayx02" title="kimberdayx02">
 <img src="KimberDay_model/kimberdayx03.jpg" width="150" alt="kimberdayx03" title="kimberdayx03">
@@ -626,6 +644,23 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="KimberDay_model/kimberdayx09.jpg" width="150" alt="kimberdayx09" title="kimberdayx09">
 <img src="KimberDay_model/kimberdayx10.jpg" width="150" alt="kimberdayx10" title="kimberdayx10">
 <img src="KimberDay_model/kimberdayx11.jpg" width="150" alt="kimberdayx11" title="kimberdayx11">
+<img src="KimberDay_model/kimberdayx12.jpg" width="150" alt="kimberdayx12" title="kimberdayx12">
+<img src="KimberDay_model/kimberdayx13.jpg" width="150" alt="kimberdayx13" title="kimberdayx13">
+<img src="KimberDay_model/kimberdayx14.jpg" width="150" alt="kimberdayx14" title="kimberdayx14">
+<img src="KimberDay_model/kimberdayx15.jpg" width="150" alt="kimberdayx15" title="kimberdayx15">
+<img src="KimberDay_model/kimberdayx16.jpg" width="150" alt="kimberdayx16" title="kimberdayx16">
+<img src="KimberDay_model/kimberdayx17.jpg" width="150" alt="kimberdayx17" title="kimberdayx17">
+<img src="KimberDay_model/kimberdayx18.jpg" width="150" alt="kimberdayx18" title="kimberdayx18">
+<img src="KimberDay_model/kimberdayx19.jpg" width="150" alt="kimberdayx19" title="kimberdayx19">
+<img src="KimberDay_model/kimberdayx20.jpg" width="150" alt="kimberdayx20" title="kimberdayx20">
+<img src="KimberDay_model/kimberdayx21.jpg" width="150" alt="kimberdayx21" title="kimberdayx21">
+<img src="KimberDay_model/kimberdayx22.jpg" width="150" alt="kimberdayx22" title="kimberdayx22">
+<img src="KimberDay_model/kimberdayx23.jpg" width="150" alt="kimberdayx23" title="kimberdayx23">
+<img src="KimberDay_model/kimberdayx24.jpg" width="150" alt="kimberdayx24" title="kimberdayx24">
+<img src="KimberDay_model/kimberdayx25.jpg" width="150" alt="kimberdayx25" title="kimberdayx25">
+<img src="KimberDay_model/kimberdayx26.jpg" width="150" alt="kimberdayx26" title="kimberdayx26">
+<img src="KimberDay_model/kimberdayx27.jpg" width="150" alt="kimberdayx27" title="kimberdayx27">
+<img src="KimberDay_model/kimberdayx28.jpg" width="150" alt="kimberdayx28" title="kimberdayx28">
 
 
 <a id="kylajamieson-poet"></a>
