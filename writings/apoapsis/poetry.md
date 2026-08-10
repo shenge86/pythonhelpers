@@ -1818,5 +1818,4 @@ A new ritual
 
 Performed by death for life
 
-2
 
