@@ -20,6 +20,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [BoBartlett_artist](#bobartlett-artist) (20)
 - [Books](#books) (7)
 - [CampbellMcgrath_poet](#campbellmcgrath-poet) (1)
+- [CarlSagan_scientist](#carlsagan-scientist) (1)
 - [CarlSandburg_writer](#carlsandburg-writer) (5)
 - [CharlesRafferty_poet](#charlesrafferty-poet) (1)
 - [ChristinaJolie_moddel](#christinajolie-moddel) (30)
@@ -42,6 +43,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [JaydenCole_model](#jaydencole-model) (5)
 - [JoySullivan_poet](#joysullivan-poet) (5)
 - [JoyceKilmer_poet](#joycekilmer-poet) (1)
+- [KaitRokowski_poet](#kaitrokowski-poet) (1)
 - [KanaTsuruta_model](#kanatsuruta-model) (4)
 - [KateBaer_poet](#katebaer-poet) (1)
 - [KaySavage_model](#kaysavage-model) (6)
@@ -88,10 +90,12 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [RobertDrake_poet](#robertdrake-poet) (1)
 - [SapphireBlue_model](#sapphireblue-model) (12)
 - [SaraRian_poet](#sararian-poet) (1)
+- [SaraTeasdale_poet](#sarateasdale-poet) (1)
 - [SaraUnderwood_model](#saraunderwood-model) (14)
 - [Shea_model](#shea-model) (24)
+- [ShelSilverstein_writer](#shelsilverstein-writer) (1)
 - [ShuntaroTanikawa_poet](#shuntarotanikawa-poet) (2)
-- [StacieA_model](#staciea-model) (38)
+- [StacieA_model](#staciea-model) (39)
 - [SylviaPlath_writer](#sylviaplath-writer) (2)
 - [Technology](#technology) (6)
 - [TomHirons_poet](#tomhirons-poet) (1)
@@ -103,6 +107,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [WendellBerry_poet](#wendellberry-poet) (1)
 - [WilliamButlerYeats_poet](#williambutleryeats-poet) (2)
 - [WislawaSzymborska_poet](#wislawaszymborska-poet) (1)
+- [WynCooper_poet](#wyncooper-poet) (1)
 - [YanAi-Lin_poet](#yanai-lin-poet) (2)
 - [YehudaAmichai_poet](#yehudaamichai-poet) (1)
 - [bimbobabey_model](#bimbobabey-model) (4)
@@ -111,13 +116,14 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [missmercyy_asmr](#missmercyy-asmr) (1)
 - [onlycellis_model](#onlycellis-model) (12)
 - [poetry](#poetry) (108)
+- [poetry_visual](#poetry-visual) (1)
 - [psychology](#psychology) (1)
 - [shanny_asmr](#shanny-asmr) (1)
 - [travel](#travel) (2)
 - [words](#words) (2)
 - [yogabella_model](#yogabella-model) (2)
 
-**Total images: 842**
+**Total images: 849**
 
 <a id="loose-images"></a>
 ## Loose images
@@ -419,6 +425,12 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="CampbellMcgrath_poet/poem-nox-borealis-by-campbell-mcgrath-v0-bqnl4tsz5hdh1.webp" width="150" alt="poem-nox-borealis-by-campbell-mcgrath-v0-bqnl4tsz5hdh1" title="poem-nox-borealis-by-campbell-mcgrath-v0-bqnl4tsz5hdh1">
 
 
+<a id="carlsagan-scientist"></a>
+## CarlSagan_scientist
+
+<img src="CarlSagan_scientist/G4Wsa9masAMwuCf.jpg" width="150" alt="G4Wsa9masAMwuCf" title="G4Wsa9masAMwuCf">
+
+
 <a id="carlsandburg-writer"></a>
 ## CarlSandburg_writer
 
@@ -641,6 +653,12 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 ## JoyceKilmer_poet
 
 <img src="JoyceKilmer_poet/rp69btmh5ksg1.jpeg" width="150" alt="rp69btmh5ksg1" title="rp69btmh5ksg1">
+
+
+<a id="kaitrokowski-poet"></a>
+## KaitRokowski_poet
+
+<img src="KaitRokowski_poet/HO_tOecaUAAmNd5.jpg" width="150" alt="HO_tOecaUAAmNd5" title="HO_tOecaUAAmNd5">
 
 
 <a id="kanatsuruta-model"></a>
@@ -1135,6 +1153,12 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="SaraRian_poet/poem-loving-the-gone-by-sara-rian-v0-h1aqa1pxifdh1.webp" width="150" alt="poem-loving-the-gone-by-sara-rian-v0-h1aqa1pxifdh1" title="poem-loving-the-gone-by-sara-rian-v0-h1aqa1pxifdh1">
 
 
+<a id="sarateasdale-poet"></a>
+## SaraTeasdale_poet
+
+<img src="SaraTeasdale_poet/HO6s_RZXAAA-qyg.jpg" width="150" alt="HO6s_RZXAAA-qyg" title="HO6s_RZXAAA-qyg">
+
+
 <a id="saraunderwood-model"></a>
 ## SaraUnderwood_model
 
@@ -1183,6 +1207,12 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="Shea_model/shea_shkit-82.jpg" width="150" alt="shea_shkit-82" title="shea_shkit-82">
 
 
+<a id="shelsilverstein-writer"></a>
+## ShelSilverstein_writer
+
+<img src="ShelSilverstein_writer/HO_uGhQbUAA3jLu.png" width="150" alt="HO_uGhQbUAA3jLu" title="HO_uGhQbUAA3jLu">
+
+
 <a id="shuntarotanikawa-poet"></a>
 ## ShuntaroTanikawa_poet
 
@@ -1193,6 +1223,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <a id="staciea-model"></a>
 ## StacieA_model
 
+<img src="StacieA_model/shenlovesstaciesfaceandbody01.jpg" width="150" alt="shenlovesstaciesfaceandbody01" title="shenlovesstaciesfaceandbody01">
 <img src="StacieA_model/stacie01.jpg" width="150" alt="stacie01" title="stacie01">
 <img src="StacieA_model/stacie02.jpg" width="150" alt="stacie02" title="stacie02">
 <img src="StacieA_model/stacie03.jpg" width="150" alt="stacie03" title="stacie03">
@@ -1306,6 +1337,12 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 ## WislawaSzymborska_poet
 
 <img src="WislawaSzymborska_poet/poem-four-in-the-morning.webp" width="150" alt="poem-four-in-the-morning" title="poem-four-in-the-morning">
+
+
+<a id="wyncooper-poet"></a>
+## WynCooper_poet
+
+<img src="WynCooper_poet/Ds86gQMW0AALHN3.png" width="150" alt="Ds86gQMW0AALHN3" title="Ds86gQMW0AALHN3">
 
 
 <a id="yanai-lin-poet"></a>
@@ -1486,6 +1523,12 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="poetry/the-plum-youre-going-to-eat-next-summer-poem-gayle-brandeis-v0-6x70acqe01cg1.webp" width="150" alt="the-plum-youre-going-to-eat-next-summer-poem-gayle-brandeis-v0-6x70acqe01cg1" title="the-plum-youre-going-to-eat-next-summer-poem-gayle-brandeis-v0-6x70acqe01cg1">
 <img src="poetry/twenty-billion-light-years-of-loneliness-by-shuntaro-v0-uvk6o5a3rztf1.webp" width="150" alt="twenty-billion-light-years-of-loneliness-by-shuntaro-v0-uvk6o5a3rztf1" title="twenty-billion-light-years-of-loneliness-by-shuntaro-v0-uvk6o5a3rztf1">
 <img src="poetry/young-pussy-poem-by-j-s-edwards-v0-qreep7p39d8g1.webp" width="150" alt="young-pussy-poem-by-j-s-edwards-v0-qreep7p39d8g1" title="young-pussy-poem-by-j-s-edwards-v0-qreep7p39d8g1">
+
+
+<a id="poetry-visual"></a>
+## poetry_visual
+
+<img src="poetry_visual/HEJqAJCaoAAwSKz.jpg" width="150" alt="HEJqAJCaoAAwSKz" title="HEJqAJCaoAAwSKz">
 
 
 <a id="psychology"></a>
