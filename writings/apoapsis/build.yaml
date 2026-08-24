@@ -32,6 +32,12 @@ input-files:
 # of at the very top), so pandoc's automatic top-of-document TOC is disabled here.
 toc: false
 
+# ## headings are used only for poem titles in poetry.md (chapters only use #),
+# so forcing every \section (= ##) to start a new page keeps each poem from
+# being split across a page break without touching chapter layout.
+include-in-header:
+  - preamble.tex
+
 # Folders pandoc searches for images. '.' covers root files (e.g. images/foo.png);
 # 'chapters' lets chapter files use file-relative paths like ../images/foo.png and
 # also reach the repo-level ../../../data_img. Both styles then resolve in the

@@ -1,0 +1,5 @@
+% ## headings are used only for poem titles in poetry.md (chapters only use #),
+% so forcing every \section (= ##) to start a new page keeps each poem from
+% being split across a page break without touching chapter layout.
+\usepackage{etoolbox}
+\pretocmd{\section}{\clearpage}{}{}

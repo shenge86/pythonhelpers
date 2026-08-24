@@ -672,7 +672,7 @@ Preferably in a language not English
 
 内视
 
-## Butterflies
+## Butterflies 1
 
 重山重山
 
@@ -710,29 +710,30 @@ She flutters her gossamer wings
 
 Departing for warmer skies as she sings
 
----
-
-BLUE
+## Butterflies 2
+```
+B L U E
 
 U     X
 
-T      I
+T     I
 
-T      THICK
+T     T H I C K
 
-E      S     A
+E     S     A
 
-R             SOL I D
+R           S O L I D
 
-FLIES     C  A   E
+F L I E S   C   A   E
 
-L             A  Z    S
+L           A   Z   S
 
-YESTERDAY   E
+Y E S T E R D A Y   E
 
-               E         R
+            E       R
 
-                          TERRAIN
+                    T E R R A I N
+```
 
 ## Climb to Summit at Lost Maples
 
@@ -1532,161 +1533,161 @@ but a loving family and friends create its own light
 
 ## Silence of the Night
 
-	Do I write to fill up a blank space?
+Do I write to fill up a blank space?
 
-	Do I speak to fill up a sudden silence?
+Do I speak to fill up a sudden silence?
 
-	I recall as a child
+I recall as a child
 
-	the stillness of the book on the desk
+the stillness of the book on the desk
 
-	before I opened its pages and devoured them
+before I opened its pages and devoured them
 
-	the silence of the moon
+the silence of the moon
 
-	amidst the quiet of the night distant from gaze of sun
+amidst the quiet of the night distant from gaze of sun
 
-	the prayer of the heart
+the prayer of the heart
 
-	spoken to no one but my own soul
+spoken to no one but my own soul
 
-	
 
-	And there is the silence of this night
 
-	when my pen put down these words
+And there is the silence of this night
 
-	a rich quietness
+when my pen put down these words
 
-	free from the tumbling blocks of the day
+a rich quietness
 
-	
+free from the tumbling blocks of the day
 
-	Maybe this is why I love the night
 
-	not for the nightlife as most picture it
 
-	but like snow falling on the roofs darkened
+Maybe this is why I love the night
 
-	after sunset,
+not for the nightlife as most picture it
 
-	a life renewed only in the silence
+but like snow falling on the roofs darkened
 
-	of thoughts and words
+after sunset,
 
-	and prior to that
+a life renewed only in the silence
 
-	Before I wrote a single word
+of thoughts and words
 
-	-- nothing at all
+and prior to that
 
-	blank space and zero words
+Before I wrote a single word
+
+-- nothing at all
+
+blank space and zero words
 
 ## Sequence
 
-	People can be described mathematically
+People can be described mathematically
 
-	Sequence of numbers with a pattern
+Sequence of numbers with a pattern
 
-	Some follow a fairly linear progression
+Some follow a fairly linear progression
 
-	1 2 3 4 5 6 7 8 9 10
+1 2 3 4 5 6 7 8 9 10
 
-	Others build up on their experiences from the past
+Others build up on their experiences from the past
 
-	though starting at 0 they slowly grow
+though starting at 0 they slowly grow
 
-	0 1 1 2 3 5 8 13 21 34 55 89
+0 1 1 2 3 5 8 13 21 34 55 89
 
-	Others are blessed to exponentially expand
+Others are blessed to exponentially expand
 
-	as if they can barely contain their own power
+as if they can barely contain their own power
 
-	1 2 4 8 16 32 64 128 256 512 1024
+1 2 4 8 16 32 64 128 256 512 1024
 
-	but they’re also the ones likely to have early termination
+but they’re also the ones likely to have early termination
 
-	Few humans know what to do with an oversurge
+Few humans know what to do with an oversurge
 
-	of fame or power
+of fame or power
 
-	Some take it the other direction
+Some take it the other direction
 
-	a negative compression
+a negative compression
 
-	1 ½ ¼ 1/8 1/16 1/32 1/64 1/128 1/256 1/512 1/1024
+1 ½ ¼ 1/8 1/16 1/32 1/64 1/128 1/256 1/512 1/1024
 
-	though they still somehow remain positive
+though they still somehow remain positive
 
-	I’m more familiar with another sequence
+I’m more familiar with another sequence
 
-	where negativity frequently creeps in and the odd 0
+where negativity frequently creeps in and the odd 0
 
-	1 -1/2 1/6 0 -1/30 0 1/42 0 -1/30 0 5/66
+1 -1/2 1/6 0 -1/30 0 1/42 0 -1/30 0 5/66
 
-	Bernoulli numbers are good representations
+Bernoulli numbers are good representations
 
-	of not just being the first computer generated sequence
+of not just being the first computer generated sequence
 
-	or the Taylor series expansion of
+or the Taylor series expansion of
 
-	hyperbolic tangent functions –
+hyperbolic tangent functions –
 
-	they’re abstract representations of
+they’re abstract representations of
 
-	my ever-fluctuating emotional state
+my ever-fluctuating emotional state
 
-	seemingly without reason but
+seemingly without reason but
 
-	following a pattern precisely defined by
+following a pattern precisely defined by
 
-	Bn=1-k=0n-1nkBkn-k+1
+Bn=1-k=0n-1nkBkn-k+1
 
 ## The Dog
 
-	the hollow roots of this slothful
+the hollow roots of this slothful
 
-	ecstasy surely will lose their
+ecstasy surely will lose their
 
-	form once the real wind gusts
+form once the real wind gusts
 
-	
 
-	the shallow pond of deceit and
 
-	cowardice surely cannot hide
+the shallow pond of deceit and
 
-	the sins committed once again
+cowardice surely cannot hide
 
-	
+the sins committed once again
 
-	the forlorn dog cannot view the
 
-	masters face without grimacing
 
-	
+the forlorn dog cannot view the
 
-	the dog knows him too well
+masters face without grimacing
 
-	
 
-	how the dog knows more than the
 
-	master who only carries an unbidden smile
+the dog knows him too well
 
-    they say dogs can view the soft soul
 
-    beneath the hard skin
 
-    the hard skin with creased shiny smiles
+how the dog knows more than the
 
-    and empty long laughs and words
+master who only carries an unbidden smile
 
-    carried on plates of platitudes
+they say dogs can view the soft soul
 
-    but no plate of anything unreal can feed the dog
+beneath the hard skin
 
-    a grimace … a growl … a whimper …
+the hard skin with creased shiny smiles
+
+and empty long laughs and words
+
+carried on plates of platitudes
+
+but no plate of anything unreal can feed the dog
+
+a grimace … a growl … a whimper …
 
 ## Delusions of Gods and Time
 
@@ -1718,7 +1719,7 @@ ultimately all fickle whims are based in time
 
 All suffer under delusion from birth 
 
-	with unidirectional time the arbiter	
+with unidirectional time the arbiter	
 
 But worship must be unified to intellectual inquiry
 
@@ -1818,4 +1819,33 @@ A new ritual
 
 Performed by death for life
 
+## Poem for Brian Butcher
+Sitting on a plastic chair with shoulders hunched
 
+Thoughts may fly while code generates
+
+The words that do not come easily
+
+on days when so much is left undone
+
+But take a moment -- rather a century or several back
+
+Once there were butchers who cut up the meat of animals
+
+to serve the village, the town, the city
+
+to feed the ever growing family starving for attention and sustenance
+
+to enable the journey across the sea to America
+
+Who knew crossing the abyss of time to the quarter 21st century
+
+will find the latest Butcher with the legacy intact
+
+Cutting up the meat of code and software
+
+to nourish the growing family of today -- his own and his planet
+
+taking us all to a wider exploration
+
+to enable the journey across the cosmic sea
