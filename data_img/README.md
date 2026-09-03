@@ -4,7 +4,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 
 ## Contents
 
-- [Loose images](#loose-images) (137)
+- [Loose images](#loose-images) (143)
 - [AdaLimon_poet](#adalimon-poet) (1)
 - [AdrienneManning_model](#adriennemanning-model) (19)
 - [AlessandraJane_model](#alessandrajane-model) (5)
@@ -41,6 +41,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [JaneHirshfield_poet](#janehirshfield-poet) (3)
 - [JasmineMans_poet](#jasminemans-poet) (1)
 - [JaydenCole_model](#jaydencole-model) (5)
+- [Journal](#journal) (26)
 - [JoySullivan_poet](#joysullivan-poet) (5)
 - [JoyceKilmer_poet](#joycekilmer-poet) (1)
 - [KaitRokowski_poet](#kaitrokowski-poet) (1)
@@ -110,6 +111,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [WynCooper_poet](#wyncooper-poet) (1)
 - [YanAi-Lin_poet](#yanai-lin-poet) (2)
 - [YehudaAmichai_poet](#yehudaamichai-poet) (1)
+- [architecture](#architecture) (13)
 - [bimbobabey_model](#bimbobabey-model) (4)
 - [camryn](#camryn) (2)
 - [kaixkitsune_model](#kaixkitsune-model) (10)
@@ -119,11 +121,11 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [poetry_visual](#poetry-visual) (1)
 - [psychology](#psychology) (1)
 - [shanny_asmr](#shanny-asmr) (1)
-- [travel](#travel) (2)
+- [travel](#travel) (4)
 - [words](#words) (2)
 - [yogabella_model](#yogabella-model) (2)
 
-**Total images: 849**
+**Total images: 896**
 
 <a id="loose-images"></a>
 ## Loose images
@@ -133,6 +135,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="68d0o4mppfih1.jpeg" width="150" alt="68d0o4mppfih1" title="68d0o4mppfih1">
 <img src="6sgl3l1j4fgh1.jpeg" width="150" alt="6sgl3l1j4fgh1" title="6sgl3l1j4fgh1">
 <img src="8e754kmvyehh1.png" width="150" alt="8e754kmvyehh1" title="8e754kmvyehh1">
+<img src="8i22anf87rmh1.jpeg" width="150" alt="8i22anf87rmh1" title="8i22anf87rmh1">
 <img src="G0Fb_gVWwAA-rWS.jpg" width="150" alt="G0Fb_gVWwAA-rWS" title="G0Fb_gVWwAA-rWS">
 <img src="G2bshOLW8AAwl7i.jpg" width="150" alt="G2bshOLW8AAwl7i" title="G2bshOLW8AAwl7i">
 <img src="G3KqzqwWwAAIYVC.jpg" width="150" alt="G3KqzqwWwAAIYVC" title="G3KqzqwWwAAIYVC">
@@ -210,6 +213,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="HLf56FQXMAAam_0.jpg" width="150" alt="HLf56FQXMAAam_0" title="HLf56FQXMAAam_0">
 <img src="HLfn2kzaAAA8-D9.jpg" width="150" alt="HLfn2kzaAAA8-D9" title="HLfn2kzaAAA8-D9">
 <img src="a-digital-collage-i-just-finished-v0-vsiu2b6h8xwc1.webp" width="150" alt="a-digital-collage-i-just-finished-v0-vsiu2b6h8xwc1" title="a-digital-collage-i-just-finished-v0-vsiu2b6h8xwc1">
+<img src="a-picture-found-of-a-mammatus-cloud-v0-tf3osjzl1mlh1.webp" width="150" alt="a-picture-found-of-a-mammatus-cloud-v0-tf3osjzl1mlh1" title="a-picture-found-of-a-mammatus-cloud-v0-tf3osjzl1mlh1">
 <img src="a-strange-strange-day-is-me-v0-7u7qvcawm7og1.webp" width="150" alt="a-strange-strange-day-is-me-v0-7u7qvcawm7og1" title="a-strange-strange-day-is-me-v0-7u7qvcawm7og1">
 <img src="amazing-aurora-in-wales-tonight-v0-sef1f2lj6eeg1.webp" width="150" alt="amazing-aurora-in-wales-tonight-v0-sef1f2lj6eeg1" title="amazing-aurora-in-wales-tonight-v0-sef1f2lj6eeg1">
 <img src="ancient-astronauts-oil-painting-by-me-v0-2qmokfn9rm0g1.webp" width="150" alt="ancient-astronauts-oil-painting-by-me-v0-2qmokfn9rm0g1" title="ancient-astronauts-oil-painting-by-me-v0-2qmokfn9rm0g1">
@@ -223,6 +227,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="finally-getting-interviews-v0-yfp7ce1h54hg1.webp" width="150" alt="finally-getting-interviews-v0-yfp7ce1h54hg1" title="finally-getting-interviews-v0-yfp7ce1h54hg1">
 <img src="glasses.gif" width="150" alt="glasses" title="glasses">
 <img src="have-you-been-to-the-lazy-river-in-the-forest-v0-sf7euknj10ih1.webp" width="150" alt="have-you-been-to-the-lazy-river-in-the-forest-v0-sf7euknj10ih1" title="have-you-been-to-the-lazy-river-in-the-forest-v0-sf7euknj10ih1">
+<img src="hnkojit23dmh1.jpeg" width="150" alt="hnkojit23dmh1" title="hnkojit23dmh1">
 <img src="husband.jpg" width="150" alt="husband" title="husband">
 <img src="i-had-a-mid-grade-fever-when-i-thought-of-this-doodle-idea-v0-ugfwjvpt4cog1.webp" width="150" alt="i-had-a-mid-grade-fever-when-i-thought-of-this-doodle-idea-v0-ugfwjvpt4cog1" title="i-had-a-mid-grade-fever-when-i-thought-of-this-doodle-idea-v0-ugfwjvpt4cog1">
 <img src="i-made-this-painting-for-a-craft-exchange-for-a-girl-who-v0-7sqw9gfze7dg1.webp" width="150" alt="i-made-this-painting-for-a-craft-exchange-for-a-girl-who-v0-7sqw9gfze7dg1" title="i-made-this-painting-for-a-craft-exchange-for-a-girl-who-v0-7sqw9gfze7dg1">
@@ -234,6 +239,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="itap-of-nature-v0-qhphy27vtd1g1.webp" width="150" alt="itap-of-nature-v0-qhphy27vtd1g1" title="itap-of-nature-v0-qhphy27vtd1g1">
 <img src="its-not-possible-to-take-such-a-photograph-anymore-as-the-v0-jj3p412qo01g1.webp" width="150" alt="its-not-possible-to-take-such-a-photograph-anymore-as-the-v0-jj3p412qo01g1" title="its-not-possible-to-take-such-a-photograph-anymore-as-the-v0-jj3p412qo01g1">
 <img src="jellyfish.jpg" width="150" alt="jellyfish" title="jellyfish">
+<img src="lighthouse-v0-wkr9dk3t7zkh1.webp" width="150" alt="lighthouse-v0-wkr9dk3t7zkh1" title="lighthouse-v0-wkr9dk3t7zkh1">
 <img src="moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1.webp" width="150" alt="moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1" title="moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1">
 <img src="mr-totally-not-fae-needs-a-few-more-lessons-on-blending-in-v0-5cu9cl38dg471.webp" width="150" alt="mr-totally-not-fae-needs-a-few-more-lessons-on-blending-in-v0-5cu9cl38dg471" title="mr-totally-not-fae-needs-a-few-more-lessons-on-blending-in-v0-5cu9cl38dg471">
 <img src="my-oil-painting-wanderers-between-worlds-v0-8rbc8b60cx0g1.webp" width="150" alt="my-oil-painting-wanderers-between-worlds-v0-8rbc8b60cx0g1" title="my-oil-painting-wanderers-between-worlds-v0-8rbc8b60cx0g1">
@@ -242,6 +248,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="paper-coding-v0-8xsuhsp7ezng1.webp" width="150" alt="paper-coding-v0-8xsuhsp7ezng1" title="paper-coding-v0-8xsuhsp7ezng1">
 <img src="rade8h8xyzfh1.jpeg" width="150" alt="rade8h8xyzfh1" title="rade8h8xyzfh1">
 <img src="red-riding-hood-v0-gyu0ksw8395g1.webp" width="150" alt="red-riding-hood-v0-gyu0ksw8395g1" title="red-riding-hood-v0-gyu0ksw8395g1">
+<img src="s3lsc9zoaslh1.jpeg" width="150" alt="s3lsc9zoaslh1" title="s3lsc9zoaslh1">
 <img src="screen-shot-2014-02-26-at-10-22-23-pm.jpg" width="150" alt="screen-shot-2014-02-26-at-10-22-23-pm" title="screen-shot-2014-02-26-at-10-22-23-pm">
 <img src="shuttles-shot-by-myself-in-kazakhstan-cosmodrome-v0-zj0hdu35ut0g1.webp" width="150" alt="shuttles-shot-by-myself-in-kazakhstan-cosmodrome-v0-zj0hdu35ut0g1" title="shuttles-shot-by-myself-in-kazakhstan-cosmodrome-v0-zj0hdu35ut0g1">
 <img src="some-experimental-equipment-in-the-forest-v0-ncgit4r6a8dg1.webp" width="150" alt="some-experimental-equipment-in-the-forest-v0-ncgit4r6a8dg1" title="some-experimental-equipment-in-the-forest-v0-ncgit4r6a8dg1">
@@ -265,6 +272,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="whenever-the-witch-was-brewing-her-specialty-potion-each-of-v0-EZoOQa3vlTIoTGmrpxd8jvYvTqgnbwI85LwWyRI-9HI.webp" width="150" alt="whenever-the-witch-was-brewing-her-specialty-potion-each-of-v0-EZoOQa3vlTIoTGmrpxd8jvYvTqgnbwI85LwWyRI-9HI" title="whenever-the-witch-was-brewing-her-specialty-potion-each-of-v0-EZoOQa3vlTIoTGmrpxd8jvYvTqgnbwI85LwWyRI-9HI">
 <img src="where-autumn-kneels-before-the-old-stone-crown-v0-y5e5vp222t0g1.webp" width="150" alt="where-autumn-kneels-before-the-old-stone-crown-v0-y5e5vp222t0g1" title="where-autumn-kneels-before-the-old-stone-crown-v0-y5e5vp222t0g1">
 <img src="yesterdays-halo-in-arosa-switzerland-v0-iw8d0z8k8d9g1.webp" width="150" alt="yesterdays-halo-in-arosa-switzerland-v0-iw8d0z8k8d9g1" title="yesterdays-halo-in-arosa-switzerland-v0-iw8d0z8k8d9g1">
+<img src="z3wvw7trmqmh1.jpeg" width="150" alt="z3wvw7trmqmh1" title="z3wvw7trmqmh1">
 
 
 <a id="adalimon-poet"></a>
@@ -637,6 +645,37 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="JaydenCole_model/FJQdfzrXsAMmasW.jpg" width="150" alt="FJQdfzrXsAMmasW" title="FJQdfzrXsAMmasW">
 <img src="JaydenCole_model/FQWMNrUVcA4X6Xj.jpg" width="150" alt="FQWMNrUVcA4X6Xj" title="FQWMNrUVcA4X6Xj">
 <img src="JaydenCole_model/FaYoH76XEAAtTDo.jpg" width="150" alt="FaYoH76XEAAtTDo" title="FaYoH76XEAAtTDo">
+
+
+<a id="journal"></a>
+## Journal
+
+<img src="Journal/ancient-egyptian-pages-v0-802v870e4zmh1.webp" width="150" alt="ancient-egyptian-pages-v0-802v870e4zmh1" title="ancient-egyptian-pages-v0-802v870e4zmh1">
+<img src="Journal/ancient-egyptian-pages-v0-wwl8b44e4zmh1.webp" width="150" alt="ancient-egyptian-pages-v0-wwl8b44e4zmh1" title="ancient-egyptian-pages-v0-wwl8b44e4zmh1">
+<img src="Journal/cross-writing-1.jpg" width="150" alt="cross-writing-1" title="cross-writing-1">
+<img src="Journal/cross-writing-2.jpg" width="150" alt="cross-writing-2" title="cross-writing-2">
+<img src="Journal/cross-writing-3.jpg" width="150" alt="cross-writing-3" title="cross-writing-3">
+<img src="Journal/cross-writing-4.jpg" width="150" alt="cross-writing-4" title="cross-writing-4">
+<img src="Journal/doodling-in-journal-entries-v0-344ymhak4rkh1.webp" width="150" alt="doodling-in-journal-entries-v0-344ymhak4rkh1" title="doodling-in-journal-entries-v0-344ymhak4rkh1">
+<img src="Journal/doodling-in-journal-entries-v0-d49tjbak4rkh1.webp" width="150" alt="doodling-in-journal-entries-v0-d49tjbak4rkh1" title="doodling-in-journal-entries-v0-d49tjbak4rkh1">
+<img src="Journal/i-decorated-my-own-journal-v0-ms73d94tp1mh1.webp" width="150" alt="i-decorated-my-own-journal-v0-ms73d94tp1mh1" title="i-decorated-my-own-journal-v0-ms73d94tp1mh1">
+<img src="Journal/i-decorated-my-own-journal-v0-w09uz94tp1mh1.webp" width="150" alt="i-decorated-my-own-journal-v0-w09uz94tp1mh1" title="i-decorated-my-own-journal-v0-w09uz94tp1mh1">
+<img src="Journal/im-trying-to-do-graphic-journalling-but-in-a-low-key-way-v0-uul0keieirmh1.webp" width="150" alt="im-trying-to-do-graphic-journalling-but-in-a-low-key-way-v0-uul0keieirmh1" title="im-trying-to-do-graphic-journalling-but-in-a-low-key-way-v0-uul0keieirmh1">
+<img src="Journal/lunch-break-v0-6jce1b2uikkh1.webp" width="150" alt="lunch-break-v0-6jce1b2uikkh1" title="lunch-break-v0-6jce1b2uikkh1">
+<img src="Journal/my-junk-journaling-pages-v0-v4yng8al82lh1.webp" width="150" alt="my-junk-journaling-pages-v0-v4yng8al82lh1" title="my-junk-journaling-pages-v0-v4yng8al82lh1">
+<img src="Journal/my-style-of-journaling-v0-hhiskp0tafkh1.webp" width="150" alt="my-style-of-journaling-v0-hhiskp0tafkh1" title="my-style-of-journaling-v0-hhiskp0tafkh1">
+<img src="Journal/my-style-of-journaling-v0-lcytxf1tafkh1.webp" width="150" alt="my-style-of-journaling-v0-lcytxf1tafkh1" title="my-style-of-journaling-v0-lcytxf1tafkh1">
+<img src="Journal/my-style-of-journaling-v0-vqn4pn0tafkh1.webp" width="150" alt="my-style-of-journaling-v0-vqn4pn0tafkh1" title="my-style-of-journaling-v0-vqn4pn0tafkh1">
+<img src="Journal/ready-for-september-%CA%95-%E1%B4%A5-%CA%94-v0-3aygy1xssmmh1.webp" width="150" alt="ready-for-september-ʕ-ᴥ-ʔ-v0-3aygy1xssmmh1" title="ready-for-september-ʕ-ᴥ-ʔ-v0-3aygy1xssmmh1">
+<img src="Journal/ready-for-september-%CA%95-%E1%B4%A5-%CA%94-v0-cm93g2xssmmh1.webp" width="150" alt="ready-for-september-ʕ-ᴥ-ʔ-v0-cm93g2xssmmh1" title="ready-for-september-ʕ-ᴥ-ʔ-v0-cm93g2xssmmh1">
+<img src="Journal/ready-for-september-%CA%95-%E1%B4%A5-%CA%94-v0-imgzt2xssmmh1.webp" width="150" alt="ready-for-september-ʕ-ᴥ-ʔ-v0-imgzt2xssmmh1" title="ready-for-september-ʕ-ᴥ-ʔ-v0-imgzt2xssmmh1">
+<img src="Journal/ready-for-september-%CA%95-%E1%B4%A5-%CA%94-v0-ye78i1xssmmh1.webp" width="150" alt="ready-for-september-ʕ-ᴥ-ʔ-v0-ye78i1xssmmh1" title="ready-for-september-ʕ-ᴥ-ʔ-v0-ye78i1xssmmh1">
+<img src="Journal/started-journaling-as-degital-detox-v0-f7ujjdgs9ilh1.webp" width="150" alt="started-journaling-as-degital-detox-v0-f7ujjdgs9ilh1" title="started-journaling-as-degital-detox-v0-f7ujjdgs9ilh1">
+<img src="Journal/started-journaling-as-degital-detox-v0-fjcnrogs9ilh1.webp" width="150" alt="started-journaling-as-degital-detox-v0-fjcnrogs9ilh1" title="started-journaling-as-degital-detox-v0-fjcnrogs9ilh1">
+<img src="Journal/started-journaling-as-degital-detox-v0-lellrngs9ilh1.webp" width="150" alt="started-journaling-as-degital-detox-v0-lellrngs9ilh1" title="started-journaling-as-degital-detox-v0-lellrngs9ilh1">
+<img src="Journal/started-journaling-as-degital-detox-v0-mmiscogs9ilh1.webp" width="150" alt="started-journaling-as-degital-detox-v0-mmiscogs9ilh1" title="started-journaling-as-degital-detox-v0-mmiscogs9ilh1">
+<img src="Journal/started-journaling-as-degital-detox-v0-qin1dfgs9ilh1.webp" width="150" alt="started-journaling-as-degital-detox-v0-qin1dfgs9ilh1" title="started-journaling-as-degital-detox-v0-qin1dfgs9ilh1">
+<img src="Journal/z3slrsdb2ilh1.jpeg" width="150" alt="z3slrsdb2ilh1" title="z3slrsdb2ilh1">
 
 
 <a id="joysullivan-poet"></a>
@@ -1358,6 +1397,24 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="YehudaAmichai_poet/u6cgtgle6lsg1.jpeg" width="150" alt="u6cgtgle6lsg1" title="u6cgtgle6lsg1">
 
 
+<a id="architecture"></a>
+## architecture
+
+<img src="architecture/Bannerman%20Castle%20in%20New%20York%2C%20by%20Francis%20Bannerman%20VI%2C%20built%20in%201918.webp" width="150" alt="Bannerman Castle in New York, by Francis Bannerman VI, built in 1918" title="Bannerman Castle in New York, by Francis Bannerman VI, built in 1918">
+<img src="architecture/Goose%20Creek%20Tower%20in%20Alaska%20by%20Phillip%20Weidner%2C%20unfinished.webp" width="150" alt="Goose Creek Tower in Alaska by Phillip Weidner, unfinished" title="Goose Creek Tower in Alaska by Phillip Weidner, unfinished">
+<img src="architecture/Igloo%20City%2C%20in%20Alaska%20by%20Leon%20Smith%2C%20built%20in%201970s.webp" width="150" alt="Igloo City, in Alaska by Leon Smith, built in 1970s" title="Igloo City, in Alaska by Leon Smith, built in 1970s">
+<img src="architecture/R.M.%20Knox%20House%20in%20Arkansas%20by%20C.J.%20Faucette.webp" width="150" alt="R.M. Knox House in Arkansas by C.J. Faucette" title="R.M. Knox House in Arkansas by C.J. Faucette">
+<img src="architecture/Reading%20between%20the%20Lines%20in%20Belgium%2C%20by%20Pieterjan%20Gijs%20and%20Arnout%20Van%20Vaerenbergh%2C%20built%202011.webp" width="150" alt="Reading between the Lines in Belgium, by Pieterjan Gijs and Arnout Van Vaerenbergh, built 2011" title="Reading between the Lines in Belgium, by Pieterjan Gijs and Arnout Van Vaerenbergh, built 2011">
+<img src="architecture/Royse%20City%20Futuro%20House%20in%20Texas%20by%20Matti%20Suuronen%2C%20built%20in%201960s.webp" width="150" alt="Royse City Futuro House in Texas by Matti Suuronen, built in 1960s" title="Royse City Futuro House in Texas by Matti Suuronen, built in 1960s">
+<img src="architecture/Russian%20Orthodox-style%20tiny%20church%20located%20in%20New%20York%2C%201972%20by%20Ed%20Scherneck%2C%20built%20in%201972.webp" width="150" alt="Russian Orthodox-style tiny church located in New York, 1972 by Ed Scherneck, built in 1972" title="Russian Orthodox-style tiny church located in New York, 1972 by Ed Scherneck, built in 1972">
+<img src="architecture/The%20Gingerbread%20House%20in%20New%20Jersey%2C%20by%20Joseph%20Urban%2C%20built%20between%201928%20and%201930.webp" width="150" alt="The Gingerbread House in New Jersey, by Joseph Urban, built between 1928 and 1930" title="The Gingerbread House in New Jersey, by Joseph Urban, built between 1928 and 1930">
+<img src="architecture/The%20Milk%20Can%20in%20Rhode%20Island%2C%20by%20Charles%20Plant%2C%20built%20in%201931.webp" width="150" alt="The Milk Can in Rhode Island, by Charles Plant, built in 1931" title="The Milk Can in Rhode Island, by Charles Plant, built in 1931">
+<img src="architecture/abandoned-trains-in-the-woods-of-maine-v0-4fcfayzv6bmh1.webp" width="150" alt="abandoned-trains-in-the-woods-of-maine-v0-4fcfayzv6bmh1" title="abandoned-trains-in-the-woods-of-maine-v0-4fcfayzv6bmh1">
+<img src="architecture/butler-place-fort-worth-tx-v0-ykdmxg1q58jh1.webp" width="150" alt="butler-place-fort-worth-tx-v0-ykdmxg1q58jh1" title="butler-place-fort-worth-tx-v0-ykdmxg1q58jh1">
+<img src="architecture/qbglvpds8xlh1.jpeg" width="150" alt="qbglvpds8xlh1" title="qbglvpds8xlh1">
+<img src="architecture/wisconsin_iqcqalhem0nh1.jpeg" width="150" alt="wisconsin_iqcqalhem0nh1" title="wisconsin_iqcqalhem0nh1">
+
+
 <a id="bimbobabey-model"></a>
 ## bimbobabey_model
 
@@ -1546,6 +1603,8 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <a id="travel"></a>
 ## travel
 
+<img src="travel/India/f1u5zck9njjh1.jpeg" width="150" alt="f1u5zck9njjh1" title="f1u5zck9njjh1">
+<img src="travel/Namibia/phk6pvs7s3nh1.jpeg" width="150" alt="phk6pvs7s3nh1" title="phk6pvs7s3nh1">
 <img src="travel/romania_oe8cmp3vt1qg1.jpeg" width="150" alt="romania_oe8cmp3vt1qg1" title="romania_oe8cmp3vt1qg1">
 <img src="travel/ruins-in-hawaii-v0-mdwiiszmttog1.webp" width="150" alt="ruins-in-hawaii-v0-mdwiiszmttog1" title="ruins-in-hawaii-v0-mdwiiszmttog1">
 
