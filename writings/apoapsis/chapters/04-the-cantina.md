@@ -1,4 +1,4 @@
-# Chapter 4: The Cantina
+# Chapter 4: The Cantina [Alpha]
 
 Sometimes, life can take you to the oddest of places, thought Megan. If twelve summers ago, someone had told her that she would be on a spacecraft flying towards the first confirmed extraterrestrial vessel, she would have construed it as pure nonsense. This isn’t because she didn’t believe in the existence of aliens but rather because she didn’t believe she had any skills that would warrant her a position on a ship.
 

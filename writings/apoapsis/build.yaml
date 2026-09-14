@@ -25,6 +25,7 @@ input-files:
   - chapters/05-the-message.md
   - chapters/06-the-game.md
   - chapters/07-the-code.md
+  - chapters/08-the-attack.md
   - chapters/19-revelation.md
   - poetry.md
 

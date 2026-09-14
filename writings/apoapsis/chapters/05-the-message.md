@@ -1,4 +1,4 @@
-# Chapter 5: The Message
+# Chapter 5: The Message [Alpha]
 
 Shen woke up to the sound of beating drums. It thudded like the foot stomps of a primeval beast with a simple 1-2-1 rhythm. [More descriptions] He shuddered.
 

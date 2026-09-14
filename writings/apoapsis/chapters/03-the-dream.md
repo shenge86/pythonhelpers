@@ -1,4 +1,4 @@
-# Chapter 3: The Dream
+# Chapter 3: The Dream [Alpha]
 
 Navigator Kara had a dream that night about a solar eclipse. It was like something she saw when she was a little girl of about 8 but surprisingly different than the experience she recounted. It felt like several different memories of others pieced together and she was experiencing them all at once. When she awoke, before the dream scattered into nothingness, she grabbed her voice recorder beside her bed and started narrating.
 

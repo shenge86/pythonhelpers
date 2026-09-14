@@ -4,7 +4,7 @@ Writing the foreword of any work is daunting and no doubt even more so when it c
 
 The characters depicted may or may not be modeled on real humans the author knows but are meant to be separate fictional characters. These characters include the following.
 
-| **Position** | **Universe A** | **Universe B** | **Universe C** |
+| **Position** | **Alpha** | **Beta** | **Gamma** |
 | --- | --- | --- | --- |
 | Captain | Robert Sanders | Robert Sanders | Stefan Calzón |
 | Chief Officer | Vishwathmane | Vishwathmane | Shen |

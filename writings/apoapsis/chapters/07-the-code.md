@@ -1,4 +1,4 @@
-# Chapter 7: The Code
+# Chapter 7: The Code [Beta]
 
 There was very little that Roy felt he could do to solve the problem. It felt intractable. He called Kara over. "Hey Kara. Look at this problem. Our navigation software isn't able to decipher this. What are we supposed to do?"
 
