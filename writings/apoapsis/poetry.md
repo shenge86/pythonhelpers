@@ -1819,6 +1819,93 @@ A new ritual
 
 Performed by death for life
 
+## Perturbations
+Formless and effortless or shaped and tiresome
+
+Enshrouded in an ectoplasmic gel --
+
+Words that flow; people that go
+
+like a spacecraft through the void of space
+
+With no particular destination
+
+It follows the enrgy contours most familiarly traversed
+
+Perhaps a banality of expression in travel
+
+But all journeys -- even quiet ones -- encounter perturbations
+
+The solar flare, the hidden asteroid, the interstellar dusts ever present
+
+No, no one and no words ever travel in complete vacuum
+
+We may think of ourselves isolated in titanium shells hurtling...
+
+Keplerian physics isn't reality. It's an oversimplification
+
+We're all subjected to forces seen and unseen
+
+Will we let them guide us or destroy us?
+
+## Evening Light
+Evening comes too soon for this one,
+
+The light of the storage room focused on,
+
+she put away the pillars hey...
+
+She brushed the deep from her eyes
+
+pondering the sipid space to her side
+
+Nothing to see but everything to fill and feel.
+
+<br>
+
+The emptiness itself with him gone
+
+A relief of one clearly unmissed
+
+His absence isn't a void
+
+It presents volume
+
+The control from the voice and the charade of lovely pretense gone
+
+Real love proved too fragile to fit within his demands 
+
+Initial mutual attraction led to a final orbit neither chose
+
+<br>
+
+Sometimes in the silence like now,
+
+she hears the duets of keyboard clacks and mouse clicks
+
+His office always a symphony of technological sounds
+
+swirling at a quickened pace -- ideas he implied
+
+and she agreed are too hard to comprehend for her
+
+But in the end, after the separation, who gained the upper hand?
+
+Was there ever a winner though she came out financially wealthier?
+
+<br>
+
+She blinks -- the duets gone
+
+She wonders -- does he value her absence too?
+
+Or does he long for her like a lost satellite adrift
+
+-- wishing once more to be bound 
+
+-- wishing once more crashing in impact
+
+
 ## Poem for Brian Butcher
 Sitting on a plastic chair with shoulders hunched
 
