@@ -14,7 +14,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [AndreaCohen_poet](#andreacohen-poet) (2)
 - [AnnaAkhmatova_poet](#annaakhmatova-poet) (1)
 - [AnneSexton_poet](#annesexton-poet) (2)
-- [Art](#art) (7)
+- [Art](#art) (11)
 - [AudreLorde_writer](#audrelorde-writer) (1)
 - [BarbaraKingsolver_poet](#barbarakingsolver-poet) (1)
 - [BoBartlett_artist](#bobartlett-artist) (20)
@@ -56,6 +56,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [LiangSiCheng_architect](#liangsicheng-architect) (4)
 - [Literature](#literature) (43)
 - [LouiseGluck_writer](#louisegluck-writer) (3)
+- [LucileClifton_poet](#lucileclifton-poet) (2)
 - [MaddieMay_model](#maddiemay-model) (4)
 - [MahmoodDarwish_poet](#mahmooddarwish-poet) (1)
 - [MarieHowe_poet](#mariehowe-poet) (4)
@@ -65,6 +66,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [MayaAngelou_writer](#mayaangelou-writer) (2)
 - [MichaelBazzett_poet](#michaelbazzett-poet) (1)
 - [Movies](#movies) (2)
+- [Muhamad al-Wid'ani_poet](#muhamad-al-wid-ani-poet) (1)
 - [NadineSage_model](#nadinesage-model) (23)
 - [NanaseAsahina_model](#nanaseasahina-model) (6)
 - [NikkiGiovanni_poet](#nikkigiovanni-poet) (3)
@@ -88,6 +90,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [Poet - Yan Li](#poet-yan-li) (2)
 - [PrimoLevi_writer](#primolevi-writer) (1)
 - [RaymondCarver_poet](#raymondcarver-poet) (1)
+- [RichardFeynman_physicist](#richardfeynman-physicist) (1)
 - [Risa_asmr](#risa-asmr) (5)
 - [RobertBly_poet](#robertbly-poet) (1)
 - [RobertDrake_poet](#robertdrake-poet) (1)
@@ -128,7 +131,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [words](#words) (2)
 - [yogabella_model](#yogabella-model) (2)
 
-**Total images: 1036**
+**Total images: 1044**
 
 <a id="loose-images"></a>
 ## Loose images
@@ -383,6 +386,10 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="Art/20260723_164355.jpg" width="150" alt="20260723_164355" title="20260723_164355">
 <img src="Art/20260723_225023.jpg" width="150" alt="20260723_225023" title="20260723_225023">
 <img src="Art/20260723_225027.jpg" width="150" alt="20260723_225027" title="20260723_225027">
+<img src="Art/33092_2422844w850.jpg" width="150" alt="33092_2422844w850" title="33092_2422844w850">
+<img src="Art/Anish-Kapoor-Leviathan-2011.-Photo-Benjamin-Bergery.-Image-via-blog.bergery.net_.webp" width="150" alt="Anish-Kapoor-Leviathan-2011.-Photo-Benjamin-Bergery.-Image-via-blog.bergery.net_" title="Anish-Kapoor-Leviathan-2011.-Photo-Benjamin-Bergery.-Image-via-blog.bergery.net_">
+<img src="Art/James-Turrell-Las-Vegas-Installation.-Image-via-wmagazine.com_.webp" width="150" alt="James-Turrell-Las-Vegas-Installation.-Image-via-wmagazine.com_" title="James-Turrell-Las-Vegas-Installation.-Image-via-wmagazine.com_">
+<img src="Art/Troika-Arcades-2015.-Image-via-ignant.com_.webp" width="150" alt="Troika-Arcades-2015.-Image-via-ignant.com_" title="Troika-Arcades-2015.-Image-via-ignant.com_">
 
 
 <a id="audrelorde-writer"></a>
@@ -964,6 +971,13 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="LouiseGluck_writer/s4xf5xoh8ang1.jpeg" width="150" alt="s4xf5xoh8ang1" title="s4xf5xoh8ang1">
 
 
+<a id="lucileclifton-poet"></a>
+## LucileClifton_poet
+
+<img src="LucileClifton_poet/pine-river-r-i-p-poem-by-lucille-clifton-v0-etgai1ygf0oh1.webp" width="150" alt="pine-river-r-i-p-poem-by-lucille-clifton-v0-etgai1ygf0oh1" title="pine-river-r-i-p-poem-by-lucille-clifton-v0-etgai1ygf0oh1">
+<img src="LucileClifton_poet/pine-river-r-i-p-poem-by-lucille-clifton-v0-nv8hy1ygf0oh1.webp" width="150" alt="pine-river-r-i-p-poem-by-lucille-clifton-v0-nv8hy1ygf0oh1" title="pine-river-r-i-p-poem-by-lucille-clifton-v0-nv8hy1ygf0oh1">
+
+
 <a id="maddiemay-model"></a>
 ## MaddieMay_model
 
@@ -1070,6 +1084,12 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 
 <img src="Movies/Indie_Game_The_Movie_poster.png" width="150" alt="Indie_Game_The_Movie_poster" title="Indie_Game_The_Movie_poster">
 <img src="Movies/Tomorrowland_poster.jpg" width="150" alt="Tomorrowland_poster" title="Tomorrowland_poster">
+
+
+<a id="muhamad-al-wid-ani-poet"></a>
+## Muhamad al-Wid'ani_poet
+
+<img src="Muhamad%20al-Wid%27ani_poet/2chf1jxefvnh1.jpeg" width="150" alt="2chf1jxefvnh1" title="2chf1jxefvnh1">
 
 
 <a id="nadinesage-model"></a>
@@ -1280,6 +1300,12 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 ## RaymondCarver_poet
 
 <img src="RaymondCarver_poet/poem-where-theyd-lived-raymond-carver-v0-ufftaznbdbdh1.webp" width="150" alt="poem-where-theyd-lived-raymond-carver-v0-ufftaznbdbdh1" title="poem-where-theyd-lived-raymond-carver-v0-ufftaznbdbdh1">
+
+
+<a id="richardfeynman-physicist"></a>
+## RichardFeynman_physicist
+
+<img src="RichardFeynman_physicist/poem-poem-by-physicist-richard-feynman-v0-larjlq3smvnh1.webp" width="150" alt="poem-poem-by-physicist-richard-feynman-v0-larjlq3smvnh1" title="poem-poem-by-physicist-richard-feynman-v0-larjlq3smvnh1">
 
 
 <a id="risa-asmr"></a>
