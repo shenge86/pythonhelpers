@@ -14,6 +14,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [AndreaCohen_poet](#andreacohen-poet) (2)
 - [AnnaAkhmatova_poet](#annaakhmatova-poet) (1)
 - [AnneSexton_poet](#annesexton-poet) (2)
+- [Ariel_model](#ariel-model) (3)
 - [Art](#art) (11)
 - [AudreLorde_writer](#audrelorde-writer) (1)
 - [BarbaraKingsolver_poet](#barbarakingsolver-poet) (1)
@@ -41,7 +42,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [JaneHirshfield_poet](#janehirshfield-poet) (3)
 - [JasmineMans_poet](#jasminemans-poet) (1)
 - [JaydenCole_model](#jaydencole-model) (5)
-- [Journal](#journal) (60)
+- [Journal](#journal) (83)
 - [JoySullivan_poet](#joysullivan-poet) (5)
 - [JoyceKilmer_poet](#joycekilmer-poet) (1)
 - [KaitRokowski_poet](#kaitrokowski-poet) (1)
@@ -52,7 +53,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [KylaJamieson_poet](#kylajamieson-poet) (1)
 - [KyliePage_model](#kyliepage-model) (6)
 - [LangstonHughes_poet](#langstonhughes-poet) (6)
-- [LeannaLovings_streamer](#leannalovings-streamer) (13)
+- [LeannaLovings_streamer](#leannalovings-streamer) (14)
 - [LiangSiCheng_architect](#liangsicheng-architect) (4)
 - [Literature](#literature) (43)
 - [LouiseGluck_writer](#louisegluck-writer) (3)
@@ -127,11 +128,11 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [poetry_visual](#poetry-visual) (1)
 - [psychology](#psychology) (1)
 - [shanny_asmr](#shanny-asmr) (1)
-- [travel](#travel) (4)
+- [travel](#travel) (5)
 - [words](#words) (2)
 - [yogabella_model](#yogabella-model) (2)
 
-**Total images: 1044**
+**Total images: 1072**
 
 <a id="loose-images"></a>
 ## Loose images
@@ -374,6 +375,14 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 
 <img src="AnneSexton_poet/HEOq1tYbkAAk5sr.jpg" width="150" alt="HEOq1tYbkAAk5sr" title="HEOq1tYbkAAk5sr">
 <img src="AnneSexton_poet/woqbd3jar0pg1.jpeg" width="150" alt="woqbd3jar0pg1" title="woqbd3jar0pg1">
+
+
+<a id="ariel-model"></a>
+## Ariel_model
+
+<img src="Ariel_model/2016-02-19_002.jpg" width="150" alt="2016-02-19_002" title="2016-02-19_002">
+<img src="Ariel_model/2016-02-19_042.jpg" width="150" alt="2016-02-19_042" title="2016-02-19_042">
+<img src="Ariel_model/2016-02-19_110%20%281%29.jpg" width="150" alt="2016-02-19_110 (1)" title="2016-02-19_110 (1)">
 
 
 <a id="art"></a>
@@ -683,6 +692,11 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <a id="journal"></a>
 ## Journal
 
+<img src="Journal/10-years-same-place-v0-2jztechntlvh1.webp" width="150" alt="10-years-same-place-v0-2jztechntlvh1" title="10-years-same-place-v0-2jztechntlvh1">
+<img src="Journal/10-years-same-place-v0-ads19ghntlvh1.webp" width="150" alt="10-years-same-place-v0-ads19ghntlvh1" title="10-years-same-place-v0-ads19ghntlvh1">
+<img src="Journal/10-years-same-place-v0-ki3jqfhntlvh1.webp" width="150" alt="10-years-same-place-v0-ki3jqfhntlvh1" title="10-years-same-place-v0-ki3jqfhntlvh1">
+<img src="Journal/10-years-same-place-v0-pcneofhntlvh1.webp" width="150" alt="10-years-same-place-v0-pcneofhntlvh1" title="10-years-same-place-v0-pcneofhntlvh1">
+<img src="Journal/10-years-same-place-v0-z6i0xfhntlvh1.webp" width="150" alt="10-years-same-place-v0-z6i0xfhntlvh1" title="10-years-same-place-v0-z6i0xfhntlvh1">
 <img src="Journal/Ania_Opening_Birthday_968/cats-and-flowers-v0-od50eb43ljpe1.webp" width="150" alt="cats-and-flowers-v0-od50eb43ljpe1" title="cats-and-flowers-v0-od50eb43ljpe1">
 <img src="Journal/Ania_Opening_Birthday_968/cats-and-flowers-v0-x8g8bb43ljpe1.webp" width="150" alt="cats-and-flowers-v0-x8g8bb43ljpe1" title="cats-and-flowers-v0-x8g8bb43ljpe1">
 <img src="Journal/Ania_Opening_Birthday_968/does-it-count-as-a-journal-v0-1vqdyoh12y8f1.webp" width="150" alt="does-it-count-as-a-journal-v0-1vqdyoh12y8f1" title="does-it-count-as-a-journal-v0-1vqdyoh12y8f1">
@@ -704,10 +718,12 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="Journal/ancient-egyptian-pages-v0-wwl8b44e4zmh1.webp" width="150" alt="ancient-egyptian-pages-v0-wwl8b44e4zmh1" title="ancient-egyptian-pages-v0-wwl8b44e4zmh1">
 <img src="Journal/averagesasha/one-research-page-per-day-v0-lpuvlqe2f2cf1.webp" width="150" alt="one-research-page-per-day-v0-lpuvlqe2f2cf1" title="one-research-page-per-day-v0-lpuvlqe2f2cf1">
 <img src="Journal/averagesasha/one-research-page-per-day-v0-m9ro1sk2f2cf1.webp" width="150" alt="one-research-page-per-day-v0-m9ro1sk2f2cf1" title="one-research-page-per-day-v0-m9ro1sk2f2cf1">
+<img src="Journal/bbxmwigxgguh1.jpg" width="150" alt="bbxmwigxgguh1" title="bbxmwigxgguh1">
 <img src="Journal/cross-writing-1.jpg" width="150" alt="cross-writing-1" title="cross-writing-1">
 <img src="Journal/cross-writing-2.jpg" width="150" alt="cross-writing-2" title="cross-writing-2">
 <img src="Journal/cross-writing-3.jpg" width="150" alt="cross-writing-3" title="cross-writing-3">
 <img src="Journal/cross-writing-4.jpg" width="150" alt="cross-writing-4" title="cross-writing-4">
+<img src="Journal/cyfdlb0wprvh1.webp" width="150" alt="cyfdlb0wprvh1" title="cyfdlb0wprvh1">
 <img src="Journal/doodling-in-journal-entries-v0-344ymhak4rkh1.webp" width="150" alt="doodling-in-journal-entries-v0-344ymhak4rkh1" title="doodling-in-journal-entries-v0-344ymhak4rkh1">
 <img src="Journal/doodling-in-journal-entries-v0-d49tjbak4rkh1.webp" width="150" alt="doodling-in-journal-entries-v0-d49tjbak4rkh1" title="doodling-in-journal-entries-v0-d49tjbak4rkh1">
 <img src="Journal/finally-finished-whatever-this-is-v0-02zoj3su3hhh1.webp" width="150" alt="finally-finished-whatever-this-is-v0-02zoj3su3hhh1" title="finally-finished-whatever-this-is-v0-02zoj3su3hhh1">
@@ -722,23 +738,39 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="Journal/finally-finished-whatever-this-is-v0-rzd0j0es3hhh1.webp" width="150" alt="finally-finished-whatever-this-is-v0-rzd0j0es3hhh1" title="finally-finished-whatever-this-is-v0-rzd0j0es3hhh1">
 <img src="Journal/finally-finished-whatever-this-is-v0-wgse6v7u3hhh1.webp" width="150" alt="finally-finished-whatever-this-is-v0-wgse6v7u3hhh1" title="finally-finished-whatever-this-is-v0-wgse6v7u3hhh1">
 <img src="Journal/finally-finished-whatever-this-is-v0-zd8rmasy3hhh1.webp" width="150" alt="finally-finished-whatever-this-is-v0-zd8rmasy3hhh1" title="finally-finished-whatever-this-is-v0-zd8rmasy3hhh1">
+<img src="Journal/got-a-blank-journal-just-so-i-could-experiment-with-the-v0-a6lt0slh2d0h1.webp" width="150" alt="got-a-blank-journal-just-so-i-could-experiment-with-the-v0-a6lt0slh2d0h1" title="got-a-blank-journal-just-so-i-could-experiment-with-the-v0-a6lt0slh2d0h1">
+<img src="Journal/got-a-blank-journal-just-so-i-could-experiment-with-the-v0-j8z455th2d0h1.webp" width="150" alt="got-a-blank-journal-just-so-i-could-experiment-with-the-v0-j8z455th2d0h1" title="got-a-blank-journal-just-so-i-could-experiment-with-the-v0-j8z455th2d0h1">
+<img src="Journal/got-a-blank-journal-just-so-i-could-experiment-with-the-v0-wt4al9dh2d0h1.webp" width="150" alt="got-a-blank-journal-just-so-i-could-experiment-with-the-v0-wt4al9dh2d0h1" title="got-a-blank-journal-just-so-i-could-experiment-with-the-v0-wt4al9dh2d0h1">
 <img src="Journal/i-decorated-my-own-journal-v0-ms73d94tp1mh1.webp" width="150" alt="i-decorated-my-own-journal-v0-ms73d94tp1mh1" title="i-decorated-my-own-journal-v0-ms73d94tp1mh1">
 <img src="Journal/i-decorated-my-own-journal-v0-w09uz94tp1mh1.webp" width="150" alt="i-decorated-my-own-journal-v0-w09uz94tp1mh1" title="i-decorated-my-own-journal-v0-w09uz94tp1mh1">
+<img src="Journal/i-spent-my-morning-enthralled-with-this-process-i-present-v0-b44g74qn3dzg1.webp" width="150" alt="i-spent-my-morning-enthralled-with-this-process-i-present-v0-b44g74qn3dzg1" title="i-spent-my-morning-enthralled-with-this-process-i-present-v0-b44g74qn3dzg1">
 <img src="Journal/im-trying-to-do-graphic-journalling-but-in-a-low-key-way-v0-uul0keieirmh1.webp" width="150" alt="im-trying-to-do-graphic-journalling-but-in-a-low-key-way-v0-uul0keieirmh1" title="im-trying-to-do-graphic-journalling-but-in-a-low-key-way-v0-uul0keieirmh1">
+<img src="Journal/just-starting-out-v0-9u3360w6d2yg1.webp" width="150" alt="just-starting-out-v0-9u3360w6d2yg1" title="just-starting-out-v0-9u3360w6d2yg1">
 <img src="Journal/lunch-break-v0-6jce1b2uikkh1.webp" width="150" alt="lunch-break-v0-6jce1b2uikkh1" title="lunch-break-v0-6jce1b2uikkh1">
+<img src="Journal/most-recent-entry-v0-ail6kree3e1h1.webp" width="150" alt="most-recent-entry-v0-ail6kree3e1h1" title="most-recent-entry-v0-ail6kree3e1h1">
 <img src="Journal/my-junk-journaling-pages-v0-v4yng8al82lh1.webp" width="150" alt="my-junk-journaling-pages-v0-v4yng8al82lh1" title="my-junk-journaling-pages-v0-v4yng8al82lh1">
+<img src="Journal/my-off-days-v0-2qto0ogxgguh1.webp" width="150" alt="my-off-days-v0-2qto0ogxgguh1" title="my-off-days-v0-2qto0ogxgguh1">
 <img src="Journal/my-style-of-journaling-v0-hhiskp0tafkh1.webp" width="150" alt="my-style-of-journaling-v0-hhiskp0tafkh1" title="my-style-of-journaling-v0-hhiskp0tafkh1">
 <img src="Journal/my-style-of-journaling-v0-lcytxf1tafkh1.webp" width="150" alt="my-style-of-journaling-v0-lcytxf1tafkh1" title="my-style-of-journaling-v0-lcytxf1tafkh1">
 <img src="Journal/my-style-of-journaling-v0-vqn4pn0tafkh1.webp" width="150" alt="my-style-of-journaling-v0-vqn4pn0tafkh1" title="my-style-of-journaling-v0-vqn4pn0tafkh1">
+<img src="Journal/prompt-firefly-music-journal-v0-j1s8xks1j0xg1.webp" width="150" alt="prompt-firefly-music-journal-v0-j1s8xks1j0xg1" title="prompt-firefly-music-journal-v0-j1s8xks1j0xg1">
+<img src="Journal/prompt-firefly-music-journal-v0-mxx2jwi2j0xg1.webp" width="150" alt="prompt-firefly-music-journal-v0-mxx2jwi2j0xg1" title="prompt-firefly-music-journal-v0-mxx2jwi2j0xg1">
 <img src="Journal/ready-for-september-%CA%95-%E1%B4%A5-%CA%94-v0-3aygy1xssmmh1.webp" width="150" alt="ready-for-september-ʕ-ᴥ-ʔ-v0-3aygy1xssmmh1" title="ready-for-september-ʕ-ᴥ-ʔ-v0-3aygy1xssmmh1">
 <img src="Journal/ready-for-september-%CA%95-%E1%B4%A5-%CA%94-v0-cm93g2xssmmh1.webp" width="150" alt="ready-for-september-ʕ-ᴥ-ʔ-v0-cm93g2xssmmh1" title="ready-for-september-ʕ-ᴥ-ʔ-v0-cm93g2xssmmh1">
 <img src="Journal/ready-for-september-%CA%95-%E1%B4%A5-%CA%94-v0-imgzt2xssmmh1.webp" width="150" alt="ready-for-september-ʕ-ᴥ-ʔ-v0-imgzt2xssmmh1" title="ready-for-september-ʕ-ᴥ-ʔ-v0-imgzt2xssmmh1">
 <img src="Journal/ready-for-september-%CA%95-%E1%B4%A5-%CA%94-v0-ye78i1xssmmh1.webp" width="150" alt="ready-for-september-ʕ-ᴥ-ʔ-v0-ye78i1xssmmh1" title="ready-for-september-ʕ-ᴥ-ʔ-v0-ye78i1xssmmh1">
+<img src="Journal/recent-entries-v0-0okkxdg62zyg1.webp" width="150" alt="recent-entries-v0-0okkxdg62zyg1" title="recent-entries-v0-0okkxdg62zyg1">
+<img src="Journal/rectangles-v0-hshtrmid8rwg1.webp" width="150" alt="rectangles-v0-hshtrmid8rwg1" title="rectangles-v0-hshtrmid8rwg1">
+<img src="Journal/rectangles-v0-iszj5mid8rwg1.webp" width="150" alt="rectangles-v0-iszj5mid8rwg1" title="rectangles-v0-iszj5mid8rwg1">
+<img src="Journal/simple-but-one-of-my-favorite-recent-entries-v0-cn1nwqjxfd0h1.webp" width="150" alt="simple-but-one-of-my-favorite-recent-entries-v0-cn1nwqjxfd0h1" title="simple-but-one-of-my-favorite-recent-entries-v0-cn1nwqjxfd0h1">
 <img src="Journal/started-journaling-as-degital-detox-v0-f7ujjdgs9ilh1.webp" width="150" alt="started-journaling-as-degital-detox-v0-f7ujjdgs9ilh1" title="started-journaling-as-degital-detox-v0-f7ujjdgs9ilh1">
 <img src="Journal/started-journaling-as-degital-detox-v0-fjcnrogs9ilh1.webp" width="150" alt="started-journaling-as-degital-detox-v0-fjcnrogs9ilh1" title="started-journaling-as-degital-detox-v0-fjcnrogs9ilh1">
 <img src="Journal/started-journaling-as-degital-detox-v0-lellrngs9ilh1.webp" width="150" alt="started-journaling-as-degital-detox-v0-lellrngs9ilh1" title="started-journaling-as-degital-detox-v0-lellrngs9ilh1">
 <img src="Journal/started-journaling-as-degital-detox-v0-mmiscogs9ilh1.webp" width="150" alt="started-journaling-as-degital-detox-v0-mmiscogs9ilh1" title="started-journaling-as-degital-detox-v0-mmiscogs9ilh1">
 <img src="Journal/started-journaling-as-degital-detox-v0-qin1dfgs9ilh1.webp" width="150" alt="started-journaling-as-degital-detox-v0-qin1dfgs9ilh1" title="started-journaling-as-degital-detox-v0-qin1dfgs9ilh1">
+<img src="Journal/todays-entry-poppycocks-v0-8awsuj8olc2h1.webp" width="150" alt="todays-entry-poppycocks-v0-8awsuj8olc2h1" title="todays-entry-poppycocks-v0-8awsuj8olc2h1">
+<img src="Journal/todays-entry-poppycocks-v0-nbt4bo8olc2h1.webp" width="150" alt="todays-entry-poppycocks-v0-nbt4bo8olc2h1" title="todays-entry-poppycocks-v0-nbt4bo8olc2h1">
+<img src="Journal/todays-entry-poppycocks-v0-qc861o8olc2h1.webp" width="150" alt="todays-entry-poppycocks-v0-qc861o8olc2h1" title="todays-entry-poppycocks-v0-qc861o8olc2h1">
 <img src="Journal/w58rs5q51erh1.jpeg" width="150" alt="w58rs5q51erh1" title="w58rs5q51erh1">
 <img src="Journal/while-waiting-for-the-tides-to-come-down-v0-10oepo9tcdkh1.webp" width="150" alt="while-waiting-for-the-tides-to-come-down-v0-10oepo9tcdkh1" title="while-waiting-for-the-tides-to-come-down-v0-10oepo9tcdkh1">
 <img src="Journal/while-waiting-for-the-tides-to-come-down-v0-db9atn9tcdkh1.webp" width="150" alt="while-waiting-for-the-tides-to-come-down-v0-db9atn9tcdkh1" title="while-waiting-for-the-tides-to-come-down-v0-db9atn9tcdkh1">
@@ -891,6 +923,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <a id="leannalovings-streamer"></a>
 ## LeannaLovings_streamer
 
+<img src="LeannaLovings_streamer/021b6b45a50a7939e198ae527a251b2a.jpg" width="150" alt="021b6b45a50a7939e198ae527a251b2a" title="021b6b45a50a7939e198ae527a251b2a">
 <img src="LeannaLovings_streamer/0d686ac7b15cd3931f95f0a30e83706f.jpg" width="150" alt="0d686ac7b15cd3931f95f0a30e83706f" title="0d686ac7b15cd3931f95f0a30e83706f">
 <img src="LeannaLovings_streamer/1e9f9706d77e80e416275098b32a2461.jpg" width="150" alt="1e9f9706d77e80e416275098b32a2461" title="1e9f9706d77e80e416275098b32a2461">
 <img src="LeannaLovings_streamer/4412ce775db43588bb45eb332ec35137.jpg" width="150" alt="4412ce775db43588bb45eb332ec35137" title="4412ce775db43588bb45eb332ec35137">
@@ -1789,6 +1822,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 
 <img src="travel/India/f1u5zck9njjh1.jpeg" width="150" alt="f1u5zck9njjh1" title="f1u5zck9njjh1">
 <img src="travel/Namibia/phk6pvs7s3nh1.jpeg" width="150" alt="phk6pvs7s3nh1" title="phk6pvs7s3nh1">
+<img src="travel/moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1.webp" width="150" alt="moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1" title="moon-motel-signage-originally-built-1966-route-9-in-howell-v0-2erbgefbsspg1">
 <img src="travel/romania_oe8cmp3vt1qg1.jpeg" width="150" alt="romania_oe8cmp3vt1qg1" title="romania_oe8cmp3vt1qg1">
 <img src="travel/ruins-in-hawaii-v0-mdwiiszmttog1.webp" width="150" alt="ruins-in-hawaii-v0-mdwiiszmttog1" title="ruins-in-hawaii-v0-mdwiiszmttog1">
 
