@@ -52,6 +52,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [KimberDay_model](#kimberday-model) (62)
 - [KylaJamieson_poet](#kylajamieson-poet) (1)
 - [KyliePage_model](#kyliepage-model) (6)
+- [LaceyChanning_model](#laceychanning-model) (4)
 - [LangstonHughes_poet](#langstonhughes-poet) (6)
 - [LeannaLovings_streamer](#leannalovings-streamer) (14)
 - [LiangSiCheng_architect](#liangsicheng-architect) (4)
@@ -104,6 +105,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [ShelSilverstein_writer](#shelsilverstein-writer) (1)
 - [ShuntaroTanikawa_poet](#shuntarotanikawa-poet) (2)
 - [StacieA_model](#staciea-model) (39)
+- [Sunny_model](#sunny-model) (13)
 - [SylviaPlath_writer](#sylviaplath-writer) (2)
 - [Technology](#technology) (6)
 - [TomHirons_poet](#tomhirons-poet) (1)
@@ -132,7 +134,7 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 - [words](#words) (2)
 - [yogabella_model](#yogabella-model) (2)
 
-**Total images: 1072**
+**Total images: 1089**
 
 <a id="loose-images"></a>
 ## Loose images
@@ -909,6 +911,15 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="KyliePage_model/kpp.jpg" width="150" alt="kpp" title="kpp">
 
 
+<a id="laceychanning-model"></a>
+## LaceyChanning_model
+
+<img src="LaceyChanning_model/lacey01.jpg" width="150" alt="lacey01" title="lacey01">
+<img src="LaceyChanning_model/lacey02.jpg" width="150" alt="lacey02" title="lacey02">
+<img src="LaceyChanning_model/lacey03.jpg" width="150" alt="lacey03" title="lacey03">
+<img src="LaceyChanning_model/lacey04.jpg" width="150" alt="lacey04" title="lacey04">
+
+
 <a id="langstonhughes-poet"></a>
 ## LangstonHughes_poet
 
@@ -1503,6 +1514,24 @@ Auto-generated gallery of every image in this folder, grouped by subfolder. Imag
 <img src="StacieA_model/stacie34_Stacie-A_high_0013.jpg" width="150" alt="stacie34_Stacie-A_high_0013" title="stacie34_Stacie-A_high_0013">
 <img src="StacieA_model/stacie35_Stacie-A_high_0014.jpg" width="150" alt="stacie35_Stacie-A_high_0014" title="stacie35_Stacie-A_high_0014">
 <img src="StacieA_model/stacie36_Stacie-A_high_0015.jpg" width="150" alt="stacie36_Stacie-A_high_0015" title="stacie36_Stacie-A_high_0015">
+
+
+<a id="sunny-model"></a>
+## Sunny_model
+
+<img src="Sunny_model/bound01.jpg" width="150" alt="bound01" title="bound01">
+<img src="Sunny_model/bound02.jpg" width="150" alt="bound02" title="bound02">
+<img src="Sunny_model/bound03.jpg" width="150" alt="bound03" title="bound03">
+<img src="Sunny_model/bound04.jpg" width="150" alt="bound04" title="bound04">
+<img src="Sunny_model/face01.jpg" width="150" alt="face01" title="face01">
+<img src="Sunny_model/face02.jpg" width="150" alt="face02" title="face02">
+<img src="Sunny_model/face03.jpg" width="150" alt="face03" title="face03">
+<img src="Sunny_model/face04.jpg" width="150" alt="face04" title="face04">
+<img src="Sunny_model/face05.jpg" width="150" alt="face05" title="face05">
+<img src="Sunny_model/face06.jpg" width="150" alt="face06" title="face06">
+<img src="Sunny_model/face07.jpg" width="150" alt="face07" title="face07">
+<img src="Sunny_model/garden01.jpg" width="150" alt="garden01" title="garden01">
+<img src="Sunny_model/indian01.jpg" width="150" alt="indian01" title="indian01">
 
 
 <a id="sylviaplath-writer"></a>
