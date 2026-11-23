@@ -17,3 +17,5 @@ writings/**/*.pdf
 
 # Windows download metadata (WSL)
 *:Zone.Identifier
+
+__pycache__/
